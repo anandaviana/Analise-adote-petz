@@ -1,0 +1,2201 @@
+{
+    "data": {
+        "pets": [
+            {
+                "mouraId": 4717252,
+                "name": "Nick",
+                "microchip": "963003100272933",
+                "unit": {
+                    "document": "18328118017850",
+                    "city": {
+                        "code": 1255,
+                        "name": "FORTALEZA"
+                    },
+                    "state": "CE",
+                    "name": "Petz Washington Soares",
+                    "companyName": "Petz Washington Soares"
+                },
+                "ngo": {
+                    "document": "12473791000156",
+                    "name": "GPA - GRUPO DE PROTECAO ANIMAL"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7244579,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/f9063db9-ec07-4366-95d7-758e32ca0b00.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/f9063db9-ec07-4366-95d7-758e32ca0b00.jpeg"
+                },
+                "birthDate": "2024-07-28",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4348415,
+                "name": "nina",
+                "microchip": "963003100169620",
+                "unit": {
+                    "document": "18328118005500",
+                    "city": {
+                        "code": 1644,
+                        "name": "BRASILIA"
+                    },
+                    "state": "DF",
+                    "name": "Petz Asa Norte",
+                    "companyName": "Petz Asa Norte"
+                },
+                "ngo": {
+                    "document": "70252106172",
+                    "name": "N\u00e1dia Raquel Fernandes Damaceno"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 6783404,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/919a023d-f636-417b-b1db-9acd86687345.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/919a023d-f636-417b-b1db-9acd86687345.jpeg"
+                },
+                "birthDate": "2021-06-29",
+                "weight": 300.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4675211,
+                "name": "Nina",
+                "microchip": "963003100272972",
+                "unit": {
+                    "document": "18328118012972",
+                    "city": {
+                        "code": 8860,
+                        "name": "SAO BERNARDO DO CAMPO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Jo\u00e3o Firmino",
+                    "companyName": "Petz Jo\u00e3o Firmino"
+                },
+                "ngo": {
+                    "document": "00738680869",
+                    "name": "Maria Cecilia Bentini"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7188317,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/003d3cfb-1f6d-4280-9764-12ff9ffd26b0.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/003d3cfb-1f6d-4280-9764-12ff9ffd26b0.jpeg"
+                },
+                "birthDate": "2023-04-15",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4726467,
+                "name": "Nina",
+                "microchip": "963003100316093",
+                "unit": {
+                    "document": "18328118004287",
+                    "city": {
+                        "code": 8717,
+                        "name": "PIRACICABA"
+                    },
+                    "state": "SP",
+                    "name": "Petz Piracicaba",
+                    "companyName": "Petz Piracicaba"
+                },
+                "ngo": {
+                    "document": "46706841838",
+                    "name": "ISABELA SIMONAGGIO BAILARINI"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7257473,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/c328127b-b0af-4dc6-a05d-9649648cada4.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/c328127b-b0af-4dc6-a05d-9649648cada4.jpeg"
+                },
+                "birthDate": "2020-11-08",
+                "weight": 4.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4723463,
+                "name": "Nora",
+                "microchip": "963003100323002",
+                "unit": {
+                    "document": "18328118007464",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Congonhas",
+                    "companyName": "Petz Congonhas"
+                },
+                "ngo": {
+                    "document": "01490362000170",
+                    "name": "ASSOC PAULISTA DE AUX AOS ANIMAIS APAA"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7253494,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/494a461f-7a83-4448-8309-9f54e9af94ea.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/494a461f-7a83-4448-8309-9f54e9af94ea.jpeg"
+                },
+                "birthDate": "2023-10-10",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4295843,
+                "name": "Not Milk",
+                "microchip": "900233001462578",
+                "unit": {
+                    "document": "18328118003124",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Morumbi",
+                    "companyName": "Petz Morumbi"
+                },
+                "ngo": {
+                    "document": "42512146000166",
+                    "name": "ENQUANTO HOUVER CHANCE"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 6705889,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/a670f2cf-a5d9-4b19-92eb-ccf84b28f8cf.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/a670f2cf-a5d9-4b19-92eb-ccf84b28f8cf.jpeg"
+                },
+                "birthDate": "2023-03-15",
+                "weight": 32.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4383491,
+                "name": "OTO",
+                "microchip": "963003100143327",
+                "unit": {
+                    "document": "18328118003205",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Jaguar\u00e9",
+                    "companyName": "Petz Jaguar\u00e9"
+                },
+                "ngo": {
+                    "document": "46866426000123",
+                    "name": "ONG AZUL "
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 6824074,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/c2113d9d-c428-48da-9d70-a4d46df728c7.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/c2113d9d-c428-48da-9d70-a4d46df728c7.jpeg"
+                },
+                "birthDate": "2023-05-10",
+                "weight": 4.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4726236,
+                "name": "Pacific Punch",
+                "microchip": "900263001934823",
+                "unit": {
+                    "document": "18328118001504",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Bandeirantes 24h",
+                    "companyName": "Petz Bandeirantes 24h"
+                },
+                "ngo": {
+                    "document": "42512146000166",
+                    "name": "ENQUANTO HOUVER CHANCE"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7257211,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/2606f0e7-5f15-485d-8d0a-28f9d220ad01.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/2606f0e7-5f15-485d-8d0a-28f9d220ad01.jpeg"
+                },
+                "birthDate": "2024-04-05",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4732054,
+                "name": "Panqueca",
+                "microchip": "963003100316241",
+                "unit": {
+                    "document": "18328118004287",
+                    "city": {
+                        "code": 8717,
+                        "name": "PIRACICABA"
+                    },
+                    "state": "SP",
+                    "name": "Petz Piracicaba",
+                    "companyName": "Petz Piracicaba"
+                },
+                "ngo": {
+                    "document": "46706841838",
+                    "name": "ISABELA SIMONAGGIO BAILARINI"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7264805,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/153900a9-7d49-438b-83fe-9a2c1312c582.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/153900a9-7d49-438b-83fe-9a2c1312c582.jpeg"
+                },
+                "birthDate": "2023-11-14",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4699682,
+                "name": "Pen\u00e9lope",
+                "microchip": "963003100295757",
+                "unit": {
+                    "document": "18328118004287",
+                    "city": {
+                        "code": 8717,
+                        "name": "PIRACICABA"
+                    },
+                    "state": "SP",
+                    "name": "Petz Piracicaba",
+                    "companyName": "Petz Piracicaba"
+                },
+                "ngo": {
+                    "document": "46706841838",
+                    "name": "ISABELA SIMONAGGIO BAILARINI"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7220560,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/a74dcca1-3db5-4a8c-82ef-691621f819cd.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/a74dcca1-3db5-4a8c-82ef-691621f819cd.jpeg"
+                },
+                "birthDate": "2020-01-15",
+                "weight": 5.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4719651,
+                "name": "Perla",
+                "microchip": "963003002202524",
+                "unit": {
+                    "document": "18328118003639",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Cantareira",
+                    "companyName": "Petz Cantareira"
+                },
+                "ngo": {
+                    "document": "29957959000100",
+                    "name": "INSTITUTO EU SOU O BICHO"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7248050,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/494f4fcd-aa93-49e7-b111-769064b822ae.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/494f4fcd-aa93-49e7-b111-769064b822ae.jpeg"
+                },
+                "birthDate": "2024-01-15",
+                "weight": 4.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4614591,
+                "name": "P\u00e9rola ",
+                "microchip": "963003100273263",
+                "unit": {
+                    "document": "18328118014088",
+                    "city": {
+                        "code": 9093,
+                        "name": "PALMAS"
+                    },
+                    "state": "TO",
+                    "name": "Petz Palmas",
+                    "companyName": "Petz Palmas"
+                },
+                "ngo": {
+                    "document": "52173005000110",
+                    "name": "INSTITUTO DE PROTE\u00c7\u00c3O ANIMAL E MEDICINA VETE"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7111365,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/bbfc91d4-a9f6-4034-800c-3dca7165cff5.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/bbfc91d4-a9f6-4034-800c-3dca7165cff5.jpeg"
+                },
+                "birthDate": "2024-01-13",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4704975,
+                "name": "Pici",
+                "microchip": "900233001446395",
+                "unit": {
+                    "document": "18328118003124",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Morumbi",
+                    "companyName": "Petz Morumbi"
+                },
+                "ngo": {
+                    "document": "42512146000166",
+                    "name": "ENQUANTO HOUVER CHANCE"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7227913,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/b5ac332d-9bed-4d9b-bbed-dbeab6c0a136.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/b5ac332d-9bed-4d9b-bbed-dbeab6c0a136.jpeg"
+                },
+                "birthDate": "2024-03-08",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4717877,
+                "name": "Pinduca Tigr\u00e3o",
+                "microchip": "963003002290600",
+                "unit": {
+                    "document": "18328118015300",
+                    "city": {
+                        "code": 8413,
+                        "name": "HORTOLANDIA"
+                    },
+                    "state": "SP",
+                    "name": "Petz Hortolandia",
+                    "companyName": "Petz Hortolandia"
+                },
+                "ngo": {
+                    "document": "47720380000100",
+                    "name": "ASSOCIA\u00c7\u00c3O PROTETORA DOS ANIMAIS ALIAN\u00c7A DO "
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7245488,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/0a4a7682-40eb-4b2f-8528-eb9f2fe7443c.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/0a4a7682-40eb-4b2f-8528-eb9f2fe7443c.jpeg"
+                },
+                "birthDate": "2022-08-12",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4719726,
+                "name": "Pituca ",
+                "microchip": "963007000650794",
+                "unit": {
+                    "document": "18328118006654",
+                    "city": {
+                        "code": 8408,
+                        "name": "GUARULHOS"
+                    },
+                    "state": "SP",
+                    "name": "Petz Bosque Maia",
+                    "companyName": "Petz Bosque Maia"
+                },
+                "ngo": {
+                    "document": "61151882534",
+                    "name": "Crispina Rita Dos Santos Jacinta"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7248147,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/9392f048-f354-473c-9991-fe4af4377b90.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/9392f048-f354-473c-9991-fe4af4377b90.jpeg"
+                },
+                "birthDate": "2024-05-28",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4711333,
+                "name": "Pop",
+                "microchip": "900233001446542",
+                "unit": {
+                    "document": "18328118001504",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Bandeirantes 24h",
+                    "companyName": "Petz Bandeirantes 24h"
+                },
+                "ngo": {
+                    "document": "42512146000166",
+                    "name": "ENQUANTO HOUVER CHANCE"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7236427,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/ab0794b5-abad-412d-b263-a26e00b4b6a5.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/ab0794b5-abad-412d-b263-a26e00b4b6a5.jpeg"
+                },
+                "birthDate": "2023-10-20",
+                "weight": 4.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 2942628,
+                "name": "PORT\u00c3O",
+                "microchip": "963007000894391",
+                "unit": {
+                    "document": "18328118005410",
+                    "city": {
+                        "code": 6343,
+                        "name": "RIO DE JANEIRO"
+                    },
+                    "state": "RJ",
+                    "name": "Petz Barra Am\u00e9ricas",
+                    "companyName": "Petz Barra Am\u00e9ricas"
+                },
+                "ngo": {
+                    "document": "35880476000149",
+                    "name": "GARRA GRUPO DE A\u00c7\u00c3O RESGATE E REABILITA\u00c7\u00c3O A"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 4707745,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/0eb9b1ae-1bfa-4bad-9940-98fa1065308d.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/0eb9b1ae-1bfa-4bad-9940-98fa1065308d.jpeg"
+                },
+                "birthDate": "2020-08-01",
+                "weight": 0.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4631035,
+                "name": "Precioso",
+                "microchip": "963003100184983",
+                "unit": {
+                    "document": "18328118016293",
+                    "city": {
+                        "code": 7181,
+                        "name": "NOVO HAMBURGO"
+                    },
+                    "state": "RS",
+                    "name": "Petz Novo Hamburgo",
+                    "companyName": "Petz Novo Hamburgo"
+                },
+                "ngo": {
+                    "document": "47437493000195",
+                    "name": "PELUDINHOS DO VALE"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7131240,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/2696155a-7f94-4631-a768-3df20fd64e88.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/2696155a-7f94-4631-a768-3df20fd64e88.jpeg"
+                },
+                "birthDate": "2023-12-10",
+                "weight": 300.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4707632,
+                "name": "Pretinho ",
+                "microchip": "963003100123008",
+                "unit": {
+                    "document": "18328118010686",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Na\u00e7\u00f5es Unidas",
+                    "companyName": "Petz Na\u00e7\u00f5es Unidas"
+                },
+                "ngo": {
+                    "document": "40039639000103",
+                    "name": "ASSOCIA\u00c7\u00c3O DE PROTE\u00c7\u00c3O AMBIENTAL TERRA M\u00c3E"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7231288,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/1bc9ed16-c3b1-425a-9942-c0da5f218fad.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/1bc9ed16-c3b1-425a-9942-c0da5f218fad.jpeg"
+                },
+                "birthDate": "2021-01-01",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4280919,
+                "name": "Pretinho Jos\u00e9 ",
+                "microchip": "963003100145220",
+                "unit": {
+                    "document": "18328118014916",
+                    "city": {
+                        "code": 1644,
+                        "name": "BRASILIA"
+                    },
+                    "state": "DF",
+                    "name": "Petz Taguatinga",
+                    "companyName": "Petz Taguatinga"
+                },
+                "ngo": {
+                    "document": "95237690149",
+                    "name": "Juliane Araripe"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 6683968,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/05acd45e-3fc8-46f9-8334-ae6c82a8a8a7.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/05acd45e-3fc8-46f9-8334-ae6c82a8a8a7.jpeg"
+                },
+                "birthDate": "2023-06-10",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4711285,
+                "name": "Princesa ",
+                "microchip": "963003100290377",
+                "unit": {
+                    "document": "18328118017184",
+                    "city": {
+                        "code": 6343,
+                        "name": "RIO DE JANEIRO"
+                    },
+                    "state": "RJ",
+                    "name": "Petz Vila Isabel",
+                    "companyName": "Petz Vila Isabel"
+                },
+                "ngo": {
+                    "document": "09868971756",
+                    "name": "AGATHA DOVALES MARTINS RODRIGUES"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7236382,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/15c1c9ff-6033-4493-8598-489bb241939a.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/15c1c9ff-6033-4493-8598-489bb241939a.jpeg"
+                },
+                "birthDate": "2024-01-15",
+                "weight": 4.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4725127,
+                "name": "PRINCESA",
+                "microchip": "901001000286326",
+                "unit": {
+                    "document": "18328118006573",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Ricardo Jafet 24h",
+                    "companyName": "Petz Ricardo Jafet 24h"
+                },
+                "ngo": {
+                    "document": "45579464000132",
+                    "name": "PATINHAS DO ASFALTO"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7255674,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/25f7ed2c-1248-486d-bfd6-c45943204033.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/25f7ed2c-1248-486d-bfd6-c45943204033.jpeg"
+                },
+                "birthDate": "2023-11-01",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4700424,
+                "name": "Pudim de Leite Condensado",
+                "microchip": "900233001446915",
+                "unit": {
+                    "document": "18328118001504",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Bandeirantes 24h",
+                    "companyName": "Petz Bandeirantes 24h"
+                },
+                "ngo": {
+                    "document": "42512146000166",
+                    "name": "ENQUANTO HOUVER CHANCE"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7221549,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/fed8285b-5212-4fa1-a8a3-54b2d23cf2f8.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/fed8285b-5212-4fa1-a8a3-54b2d23cf2f8.jpeg"
+                },
+                "birthDate": "2024-04-12",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 2803799,
+                "name": "PUMA",
+                "microchip": "933007600061603",
+                "unit": {
+                    "document": "18328118006301",
+                    "city": {
+                        "code": 6343,
+                        "name": "RIO DE JANEIRO"
+                    },
+                    "state": "RJ",
+                    "name": "Petz Extra Maracan\u00e3",
+                    "companyName": "Petz Extra Maracan\u00e3"
+                },
+                "ngo": {
+                    "document": "40943349000181",
+                    "name": "ASSOCIA\u00c7\u00c3O CONFRARIA DOS GATINHOS E AMIGOS -"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 4534368,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/64a11e68-3b6f-4910-b432-f84db09f488b.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/64a11e68-3b6f-4910-b432-f84db09f488b.jpeg"
+                },
+                "birthDate": "2020-08-10",
+                "weight": 0.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4683407,
+                "name": "QUERUBIM",
+                "microchip": "963003100264670",
+                "unit": {
+                    "document": "18328118018660",
+                    "city": {
+                        "code": 1644,
+                        "name": "BRASILIA"
+                    },
+                    "state": "DF",
+                    "name": "Petz W3 Norte",
+                    "companyName": "Petz W3 Norte"
+                },
+                "ngo": {
+                    "document": "70252106172",
+                    "name": "N\u00e1dia Raquel Fernandes Damaceno"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7199050,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/c02bfc87-4147-43e9-aa55-aff71de351a5.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/c02bfc87-4147-43e9-aa55-aff71de351a5.jpeg"
+                },
+                "birthDate": "2024-06-12",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4722582,
+                "name": "Raimundo",
+                "microchip": "963003100038328",
+                "unit": {
+                    "document": "18328118008274",
+                    "city": {
+                        "code": 7253,
+                        "name": "PORTO ALEGRE"
+                    },
+                    "state": "RS",
+                    "name": "Petz Cavalhada",
+                    "companyName": "Petz Cavalhada"
+                },
+                "ngo": {
+                    "document": "11240184000183",
+                    "name": "ASS SOCIAL PROTE\u00c7\u00c3O ANIMAIS ANJOS PATAS"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7252301,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/9e224587-7b97-434c-b686-915bfdea68a0.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/9e224587-7b97-434c-b686-915bfdea68a0.jpeg"
+                },
+                "birthDate": "2022-03-20",
+                "weight": 4.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4369724,
+                "name": "Raspberry",
+                "microchip": "900233001462547",
+                "unit": {
+                    "document": "18328118003124",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Morumbi",
+                    "companyName": "Petz Morumbi"
+                },
+                "ngo": {
+                    "document": "42512146000166",
+                    "name": "ENQUANTO HOUVER CHANCE"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 6809593,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/067aa4e9-8c7a-42c4-9d0c-a1737aba2612.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/067aa4e9-8c7a-42c4-9d0c-a1737aba2612.jpeg"
+                },
+                "birthDate": "2023-06-27",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4732125,
+                "name": "Ravi",
+                "microchip": "963003100316238",
+                "unit": {
+                    "document": "18328118004287",
+                    "city": {
+                        "code": 8717,
+                        "name": "PIRACICABA"
+                    },
+                    "state": "SP",
+                    "name": "Petz Piracicaba",
+                    "companyName": "Petz Piracicaba"
+                },
+                "ngo": {
+                    "document": "46706841838",
+                    "name": "ISABELA SIMONAGGIO BAILARINI"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7264880,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/f050b145-1789-487d-a22c-fa7592e200d6.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/f050b145-1789-487d-a22c-fa7592e200d6.jpeg"
+                },
+                "birthDate": "2023-11-14",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4730175,
+                "name": "RAVIOLI",
+                "microchip": "901001000286380",
+                "unit": {
+                    "document": "18328118000532",
+                    "city": {
+                        "code": 8862,
+                        "name": "SAO CAETANO DO SUL"
+                    },
+                    "state": "SP",
+                    "name": "Petz Carrefour S\u00e3o Caetano",
+                    "companyName": "Petz Carrefour S\u00e3o Caetano"
+                },
+                "ngo": {
+                    "document": "45579464000132",
+                    "name": "PATINHAS DO ASFALTO"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7262431,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/e2af7203-c39a-40e8-b860-e395cc757ef4.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/e2af7203-c39a-40e8-b860-e395cc757ef4.jpeg"
+                },
+                "birthDate": "2024-09-04",
+                "weight": 1.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4730169,
+                "name": "RISOTTO",
+                "microchip": "901001000286393",
+                "unit": {
+                    "document": "18328118000532",
+                    "city": {
+                        "code": 8862,
+                        "name": "SAO CAETANO DO SUL"
+                    },
+                    "state": "SP",
+                    "name": "Petz Carrefour S\u00e3o Caetano",
+                    "companyName": "Petz Carrefour S\u00e3o Caetano"
+                },
+                "ngo": {
+                    "document": "45579464000132",
+                    "name": "PATINHAS DO ASFALTO"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7262422,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/65a15924-56d5-4642-88ac-1c4b19c2fbca.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/65a15924-56d5-4642-88ac-1c4b19c2fbca.jpeg"
+                },
+                "birthDate": "2024-09-04",
+                "weight": 1.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4726298,
+                "name": "Robin Scherbatsky",
+                "microchip": "900263001322551",
+                "unit": {
+                    "document": "18328118002829",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz An\u00e1lia Franco",
+                    "companyName": "Petz An\u00e1lia Franco"
+                },
+                "ngo": {
+                    "document": "17291107000139",
+                    "name": "ASSOCIA\u00c7\u00c3O CONFRARIA DOS MIADOS E LATIDOS"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7257285,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/182657dc-7f89-4926-b8ef-c5d6bd393f3c.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/182657dc-7f89-4926-b8ef-c5d6bd393f3c.jpeg"
+                },
+                "birthDate": "2024-07-02",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4719792,
+                "name": "Romeu",
+                "microchip": "963003100333778",
+                "unit": {
+                    "document": "18328118012620",
+                    "city": {
+                        "code": 8787,
+                        "name": "RIO CLARO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Rio Claro",
+                    "companyName": "Petz Rio Claro"
+                },
+                "ngo": {
+                    "document": "23983507000108",
+                    "name": "UNIAO DOS PROTETORES DE ANIMAIS DE RIO CLARO"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7248225,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/6617a5cb-e0cc-400b-a290-b262aa311efd.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/6617a5cb-e0cc-400b-a290-b262aa311efd.jpeg"
+                },
+                "birthDate": "2024-01-01",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4553283,
+                "name": "Rud\u00e1",
+                "microchip": "963003100188496",
+                "unit": {
+                    "document": "18328118006301",
+                    "city": {
+                        "code": 6343,
+                        "name": "RIO DE JANEIRO"
+                    },
+                    "state": "RJ",
+                    "name": "Petz Extra Maracan\u00e3",
+                    "companyName": "Petz Extra Maracan\u00e3"
+                },
+                "ngo": {
+                    "document": "40943349000181",
+                    "name": "ASSOCIA\u00c7\u00c3O CONFRARIA DOS GATINHOS E AMIGOS -"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7032977,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/679ae16f-b6d3-4bc4-8931-7401063b80c7.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/679ae16f-b6d3-4bc4-8931-7401063b80c7.jpeg"
+                },
+                "birthDate": "2023-12-01",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4726259,
+                "name": "Salazar",
+                "microchip": "963003100053954",
+                "unit": {
+                    "document": "18328118005682",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Itaim",
+                    "companyName": "Petz Itaim"
+                },
+                "ngo": {
+                    "document": "20521867000108",
+                    "name": "Catland Ado\u00e7\u00e3o de Gatinhos"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7257239,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/20eb4044-1e4e-4459-945a-e7b2bb59a370.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/20eb4044-1e4e-4459-945a-e7b2bb59a370.jpeg"
+                },
+                "birthDate": "2024-09-07",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4500297,
+                "name": "Samba",
+                "microchip": "963007000658321",
+                "unit": {
+                    "document": "18328118003205",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Jaguar\u00e9",
+                    "companyName": "Petz Jaguar\u00e9"
+                },
+                "ngo": {
+                    "document": "46866426000123",
+                    "name": "ONG AZUL "
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 6966772,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/8589121d-a5da-44b1-819a-7ed66f50f441.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/8589121d-a5da-44b1-819a-7ed66f50f441.jpeg"
+                },
+                "birthDate": "2023-11-23",
+                "weight": 0.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4732711,
+                "name": "Samira",
+                "microchip": "963007000689018",
+                "unit": {
+                    "document": "18328118004600",
+                    "city": {
+                        "code": 8846,
+                        "name": "SANTO ANDRE"
+                    },
+                    "state": "SP",
+                    "name": "Petz Santo Andr\u00e9",
+                    "companyName": "Petz Santo Andr\u00e9"
+                },
+                "ngo": {
+                    "document": "05299525000193",
+                    "name": "CLUBE DOS VIRA LATAS- GRUPO DE PROTE\u00c7\u00c3O AOS "
+                },
+                "gender": "FEMALE",
+                "size": "Medio",
+                "cadpetzId": 7265654,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/cbaa210c-d08e-4cf9-bb91-ea3ea75458b9.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/cbaa210c-d08e-4cf9-bb91-ea3ea75458b9.jpeg"
+                },
+                "birthDate": "2023-10-10",
+                "weight": 4.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4726106,
+                "name": "Sans\u00e3o ",
+                "microchip": "963003100264071",
+                "unit": {
+                    "document": "18328118004872",
+                    "city": {
+                        "code": 8179,
+                        "name": "BARUERI"
+                    },
+                    "state": "SP",
+                    "name": "Petz Tambor\u00e9",
+                    "companyName": "Petz Tambor\u00e9"
+                },
+                "ngo": {
+                    "document": "46918898000182",
+                    "name": "ASSOCIACAO VIDA DE VIRA LATA"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7257074,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/abea951f-9df2-4992-bf76-367433a0b8c5.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/abea951f-9df2-4992-bf76-367433a0b8c5.jpeg"
+                },
+                "birthDate": "2023-11-08",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4220423,
+                "name": "Sarafina",
+                "microchip": "963008001229215",
+                "unit": {
+                    "document": "18328118000109",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Marginal Tiete",
+                    "companyName": "Petz Marginal Tiete"
+                },
+                "ngo": {
+                    "document": "25447290821",
+                    "name": "Alessandra pimenta camargo de oliveira"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 6554980,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/3725b0df-3e2d-4c80-8778-fba84afa7388.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/3725b0df-3e2d-4c80-8778-fba84afa7388.jpeg"
+                },
+                "birthDate": "2023-03-02",
+                "weight": 30.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4683419,
+                "name": "SERAFIM",
+                "microchip": "963003100264669",
+                "unit": {
+                    "document": "18328118018660",
+                    "city": {
+                        "code": 1644,
+                        "name": "BRASILIA"
+                    },
+                    "state": "DF",
+                    "name": "Petz W3 Norte",
+                    "companyName": "Petz W3 Norte"
+                },
+                "ngo": {
+                    "document": "70252106172",
+                    "name": "N\u00e1dia Raquel Fernandes Damaceno"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7199063,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/e2297e3c-4cd0-4f09-aa66-965d9e548636.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/e2297e3c-4cd0-4f09-aa66-965d9e548636.jpeg"
+                },
+                "birthDate": "2024-06-12",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4597328,
+                "name": "SERAFINE",
+                "microchip": "978101083395809",
+                "unit": {
+                    "document": "18328118012620",
+                    "city": {
+                        "code": 8787,
+                        "name": "RIO CLARO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Rio Claro",
+                    "companyName": "Petz Rio Claro"
+                },
+                "ngo": {
+                    "document": "23983507000108",
+                    "name": "UNIAO DOS PROTETORES DE ANIMAIS DE RIO CLARO"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7088750,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/6770b94a-aca7-4292-8004-52d9710ebf25.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/6770b94a-aca7-4292-8004-52d9710ebf25.jpeg"
+                },
+                "birthDate": "2020-01-01",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4731915,
+                "name": "SERENA",
+                "microchip": "901001000286319",
+                "unit": {
+                    "document": "18328118006573",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Ricardo Jafet 24h",
+                    "companyName": "Petz Ricardo Jafet 24h"
+                },
+                "ngo": {
+                    "document": "45579464000132",
+                    "name": "PATINHAS DO ASFALTO"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7264641,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/179b2225-27b0-4110-a7a1-37b4f6efb128.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/179b2225-27b0-4110-a7a1-37b4f6efb128.jpeg"
+                },
+                "birthDate": "2024-05-01",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4732008,
+                "name": "Serginho ",
+                "microchip": "900263001384054",
+                "unit": {
+                    "document": "18328118024040",
+                    "city": {
+                        "code": 6343,
+                        "name": "RIO DE JANEIRO"
+                    },
+                    "state": "RJ",
+                    "name": "Petz Abelardo Bueno",
+                    "companyName": "Petz Abelardo Bueno"
+                },
+                "ngo": {
+                    "document": "13339013000131",
+                    "name": "ASSOCIACAO FOCINHOS DE LUZ"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7264751,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/3dd3faba-bfed-49a6-82e5-9d5d05a8fb7a.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/3dd3faba-bfed-49a6-82e5-9d5d05a8fb7a.jpeg"
+                },
+                "birthDate": "2024-10-31",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4718620,
+                "name": "Server",
+                "microchip": "963003100278749",
+                "unit": {
+                    "document": "18328118005682",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Itaim",
+                    "companyName": "Petz Itaim"
+                },
+                "ngo": {
+                    "document": "20521867000108",
+                    "name": "Catland Ado\u00e7\u00e3o de Gatinhos"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7246554,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/1f8f210d-badc-484f-82b1-52e680a401f2.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/1f8f210d-badc-484f-82b1-52e680a401f2.jpeg"
+                },
+                "birthDate": "2024-08-30",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4732009,
+                "name": "Silvia",
+                "microchip": "900263001384059",
+                "unit": {
+                    "document": "18328118024040",
+                    "city": {
+                        "code": 6343,
+                        "name": "RIO DE JANEIRO"
+                    },
+                    "state": "RJ",
+                    "name": "Petz Abelardo Bueno",
+                    "companyName": "Petz Abelardo Bueno"
+                },
+                "ngo": {
+                    "document": "13339013000131",
+                    "name": "ASSOCIACAO FOCINHOS DE LUZ"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7264757,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/dd247499-5a1b-4221-b49d-b7dc76318f62.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/dd247499-5a1b-4221-b49d-b7dc76318f62.jpeg"
+                },
+                "birthDate": "2024-08-30",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4452925,
+                "name": "simba",
+                "microchip": "98102002902040",
+                "unit": {
+                    "document": "18328118012115",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Itapecerica Da Serra",
+                    "companyName": "Petz Itapecerica Da Serra"
+                },
+                "ngo": {
+                    "document": "40039639000103",
+                    "name": "ASSOCIA\u00c7\u00c3O DE PROTE\u00c7\u00c3O AMBIENTAL TERRA M\u00c3E"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 6907517,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/25fdd58a-8303-4f75-8b0e-309582d88704.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/25fdd58a-8303-4f75-8b0e-309582d88704.jpeg"
+                },
+                "birthDate": "2022-11-16",
+                "weight": 4.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4732010,
+                "name": "S\u00f4nia",
+                "microchip": "900263001384044",
+                "unit": {
+                    "document": "18328118024040",
+                    "city": {
+                        "code": 6343,
+                        "name": "RIO DE JANEIRO"
+                    },
+                    "state": "RJ",
+                    "name": "Petz Abelardo Bueno",
+                    "companyName": "Petz Abelardo Bueno"
+                },
+                "ngo": {
+                    "document": "13339013000131",
+                    "name": "ASSOCIACAO FOCINHOS DE LUZ"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7264764,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/e5a1efc4-ffd6-4240-a91c-cc51499c263e.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/e5a1efc4-ffd6-4240-a91c-cc51499c263e.jpeg"
+                },
+                "birthDate": "2024-08-30",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4730160,
+                "name": "SPAGHETTI",
+                "microchip": "901001000286363",
+                "unit": {
+                    "document": "18328118000532",
+                    "city": {
+                        "code": 8862,
+                        "name": "SAO CAETANO DO SUL"
+                    },
+                    "state": "SP",
+                    "name": "Petz Carrefour S\u00e3o Caetano",
+                    "companyName": "Petz Carrefour S\u00e3o Caetano"
+                },
+                "ngo": {
+                    "document": "45579464000132",
+                    "name": "PATINHAS DO ASFALTO"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7262415,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/50adf5bb-3876-432b-9930-f585decd56ff.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/50adf5bb-3876-432b-9930-f585decd56ff.jpeg"
+                },
+                "birthDate": "2024-09-04",
+                "weight": 1.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4701612,
+                "name": "Stella",
+                "microchip": "963003100316087",
+                "unit": {
+                    "document": "18328118004287",
+                    "city": {
+                        "code": 8717,
+                        "name": "PIRACICABA"
+                    },
+                    "state": "SP",
+                    "name": "Petz Piracicaba",
+                    "companyName": "Petz Piracicaba"
+                },
+                "ngo": {
+                    "document": "46706841838",
+                    "name": "ISABELA SIMONAGGIO BAILARINI"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7223053,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/f2588c84-c972-41a5-9db8-5c26c242ea11.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/f2588c84-c972-41a5-9db8-5c26c242ea11.jpeg"
+                },
+                "birthDate": "2023-11-14",
+                "weight": 4.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4720028,
+                "name": "Suzy",
+                "microchip": "900215010042094",
+                "unit": {
+                    "document": "18328118001695",
+                    "city": {
+                        "code": 8917,
+                        "name": "SOROCABA"
+                    },
+                    "state": "SP",
+                    "name": "Petz Sorocaba",
+                    "companyName": "Petz Sorocaba"
+                },
+                "ngo": {
+                    "document": "23604877000197",
+                    "name": "AMALO ASS AMIGO DOS ANIMAIS DE LOUVEIRA"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7248512,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/45a24cc5-b3c7-44fa-8753-1e2909088d60.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/45a24cc5-b3c7-44fa-8753-1e2909088d60.jpeg"
+                },
+                "birthDate": "2023-10-01",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4707826,
+                "name": "Teka",
+                "microchip": "963007000873053",
+                "unit": {
+                    "document": "18328118005763",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Pompeia",
+                    "companyName": "Petz Pompeia"
+                },
+                "ngo": {
+                    "document": "42685999000108",
+                    "name": "ONG ME DE UMA CHANCE DE PROTECAO ANIMAL"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7231497,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/d4fd1179-11c3-497b-ad2a-98f1e22db936.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/d4fd1179-11c3-497b-ad2a-98f1e22db936.jpeg"
+                },
+                "birthDate": "2024-05-10",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4598321,
+                "name": "Teodora",
+                "microchip": "963003100169769",
+                "unit": {
+                    "document": "18328118017850",
+                    "city": {
+                        "code": 1255,
+                        "name": "FORTALEZA"
+                    },
+                    "state": "CE",
+                    "name": "Petz Washington Soares",
+                    "companyName": "Petz Washington Soares"
+                },
+                "ngo": {
+                    "document": "12473791000156",
+                    "name": "GPA - GRUPO DE PROTECAO ANIMAL"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7089953,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/9f26740b-7cac-42c2-92ea-ee2fff5a8012.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/9f26740b-7cac-42c2-92ea-ee2fff5a8012.jpeg"
+                },
+                "birthDate": "2023-11-20",
+                "weight": 0.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4729376,
+                "name": "Tequila ",
+                "microchip": "963008001162227",
+                "unit": {
+                    "document": "18328118012972",
+                    "city": {
+                        "code": 8860,
+                        "name": "SAO BERNARDO DO CAMPO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Jo\u00e3o Firmino",
+                    "companyName": "Petz Jo\u00e3o Firmino"
+                },
+                "ngo": {
+                    "document": "00738680869",
+                    "name": "Maria Cecilia Bentini"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7261410,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/0ea3a87b-b47e-4a29-ba0c-4bde1062d50e.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/0ea3a87b-b47e-4a29-ba0c-4bde1062d50e.jpeg"
+                },
+                "birthDate": "2022-01-01",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4725195,
+                "name": "Tess",
+                "microchip": "900263001322392",
+                "unit": {
+                    "document": "18328118001776",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Augusta",
+                    "companyName": "Petz Augusta"
+                },
+                "ngo": {
+                    "document": "17291107000139",
+                    "name": "ASSOCIA\u00c7\u00c3O CONFRARIA DOS MIADOS E LATIDOS"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7255781,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/05579dca-a437-43b2-8ff1-e8d8ff9fb4a8.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/05579dca-a437-43b2-8ff1-e8d8ff9fb4a8.jpeg"
+                },
+                "birthDate": "2023-07-15",
+                "weight": 4.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4723456,
+                "name": "Thaylor",
+                "microchip": "963003100254743",
+                "unit": {
+                    "document": "18328118007464",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Congonhas",
+                    "companyName": "Petz Congonhas"
+                },
+                "ngo": {
+                    "document": "01490362000170",
+                    "name": "ASSOC PAULISTA DE AUX AOS ANIMAIS APAA"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7253488,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/f95332ab-cd43-45eb-8ae9-d3094eeca31a.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/f95332ab-cd43-45eb-8ae9-d3094eeca31a.jpeg"
+                },
+                "birthDate": "2023-10-10",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4701498,
+                "name": "Theo",
+                "microchip": "963003100316090",
+                "unit": {
+                    "document": "18328118004287",
+                    "city": {
+                        "code": 8717,
+                        "name": "PIRACICABA"
+                    },
+                    "state": "SP",
+                    "name": "Petz Piracicaba",
+                    "companyName": "Petz Piracicaba"
+                },
+                "ngo": {
+                    "document": "46706841838",
+                    "name": "ISABELA SIMONAGGIO BAILARINI"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7222927,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/d05d8795-370e-4c65-9715-8bebb47f1069.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/d05d8795-370e-4c65-9715-8bebb47f1069.jpeg"
+                },
+                "birthDate": "2023-10-10",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4711346,
+                "name": "Thomas",
+                "microchip": "963003100264658",
+                "unit": {
+                    "document": "18328118007383",
+                    "city": {
+                        "code": 3961,
+                        "name": "CAMPO GRANDE"
+                    },
+                    "state": "MS",
+                    "name": "Petz Campo Grande",
+                    "companyName": "Petz Campo Grande"
+                },
+                "ngo": {
+                    "document": "27806981000115",
+                    "name": "Amicats"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7236439,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/3a944aff-0db0-4caa-9a1d-a9b8c0aa26e5.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/3a944aff-0db0-4caa-9a1d-a9b8c0aa26e5.jpeg"
+                },
+                "birthDate": "2023-10-21",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4665114,
+                "name": "Thor",
+                "microchip": "963003100035873",
+                "unit": {
+                    "document": "18328118010848",
+                    "city": {
+                        "code": 8485,
+                        "name": "ITU"
+                    },
+                    "state": "SP",
+                    "name": "Petz Itu",
+                    "companyName": "Petz Itu"
+                },
+                "ngo": {
+                    "document": "49009500000183",
+                    "name": "MAOS QUE ACOLHEM BICHOS"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7175235,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/f5711695-3c09-4a6e-9f5f-d941d7b43956.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/f5711695-3c09-4a6e-9f5f-d941d7b43956.jpeg"
+                },
+                "birthDate": "2024-03-01",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4708583,
+                "name": "Tico",
+                "microchip": "963003100316088",
+                "unit": {
+                    "document": "18328118004287",
+                    "city": {
+                        "code": 8717,
+                        "name": "PIRACICABA"
+                    },
+                    "state": "SP",
+                    "name": "Petz Piracicaba",
+                    "companyName": "Petz Piracicaba"
+                },
+                "ngo": {
+                    "document": "46706841838",
+                    "name": "ISABELA SIMONAGGIO BAILARINI"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7232537,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/28605674-04dd-49ea-8885-95d9973bf370.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/28605674-04dd-49ea-8885-95d9973bf370.jpeg"
+                },
+                "birthDate": "2023-10-17",
+                "weight": 400.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4628259,
+                "name": "Tinchi",
+                "microchip": "931000011559687",
+                "unit": {
+                    "document": "18328118008517",
+                    "city": {
+                        "code": 8439,
+                        "name": "INDAIATUBA"
+                    },
+                    "state": "SP",
+                    "name": "Petz Indaiatuba",
+                    "companyName": "Petz Indaiatuba"
+                },
+                "ngo": {
+                    "document": "40039639000103",
+                    "name": "ASSOCIA\u00c7\u00c3O DE PROTE\u00c7\u00c3O AMBIENTAL TERRA M\u00c3E"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7127635,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/5afaa511-efa8-4765-94dc-ce8dcf28aefc.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/5afaa511-efa8-4765-94dc-ce8dcf28aefc.jpeg"
+                },
+                "birthDate": "2020-07-07",
+                "weight": 4.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4718544,
+                "name": "Tom ",
+                "microchip": "963003100239875",
+                "unit": {
+                    "document": "18328118007545",
+                    "city": {
+                        "code": 2014,
+                        "name": "GOIANIA"
+                    },
+                    "state": "GO",
+                    "name": "Petz Bueno T63",
+                    "companyName": "Petz Bueno T63"
+                },
+                "ngo": {
+                    "document": "27959591000185",
+                    "name": "PROJETO VIVA GATO"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7246451,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/594c331d-d276-4aa1-8f98-c028e6a5fec4.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/594c331d-d276-4aa1-8f98-c028e6a5fec4.jpeg"
+                },
+                "birthDate": "2024-08-30",
+                "weight": 1.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4719711,
+                "name": "Tom",
+                "microchip": "900233005242857",
+                "unit": {
+                    "document": "18328118010767",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Giovanni Gronchi",
+                    "companyName": "Petz Giovanni Gronchi"
+                },
+                "ngo": {
+                    "document": "27016059000124",
+                    "name": "INSTITUTO APOIO E DEFESA ANIMAL VANESSA"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7248126,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/c492d527-7776-408c-8489-4f6ec55709f9.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/c492d527-7776-408c-8489-4f6ec55709f9.jpeg"
+                },
+                "birthDate": "2023-11-01",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4707639,
+                "name": "Toquinho ",
+                "microchip": "963003100160214",
+                "unit": {
+                    "document": "18328118010686",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Na\u00e7\u00f5es Unidas",
+                    "companyName": "Petz Na\u00e7\u00f5es Unidas"
+                },
+                "ngo": {
+                    "document": "40039639000103",
+                    "name": "ASSOCIA\u00c7\u00c3O DE PROTE\u00c7\u00c3O AMBIENTAL TERRA M\u00c3E"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7231294,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/2e3d9c7b-e299-46d5-a90e-b8b282f2c622.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/2e3d9c7b-e299-46d5-a90e-b8b282f2c622.jpeg"
+                },
+                "birthDate": "2021-01-01",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4731992,
+                "name": "Urice",
+                "microchip": "900263001383622",
+                "unit": {
+                    "document": "18328118024040",
+                    "city": {
+                        "code": 6343,
+                        "name": "RIO DE JANEIRO"
+                    },
+                    "state": "RJ",
+                    "name": "Petz Abelardo Bueno",
+                    "companyName": "Petz Abelardo Bueno"
+                },
+                "ngo": {
+                    "document": "13339013000131",
+                    "name": "ASSOCIACAO FOCINHOS DE LUZ"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7264738,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/6d5746b4-0373-4131-a3b7-9ce5cedb8573.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/6d5746b4-0373-4131-a3b7-9ce5cedb8573.jpeg"
+                },
+                "birthDate": "2024-08-01",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4618935,
+                "name": "Ursa",
+                "microchip": "963003100262778",
+                "unit": {
+                    "document": "18328118011909",
+                    "city": {
+                        "code": 921,
+                        "name": "SALVADOR"
+                    },
+                    "state": "BA",
+                    "name": "Petz Salvador Bonoc\u00f4",
+                    "companyName": "Petz Salvador Bonoc\u00f4"
+                },
+                "ngo": {
+                    "document": "25382038000105",
+                    "name": "ASSOCIA\u00c7\u00c3O GATIL IRM\u00c3 FRANCISCA "
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7116425,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/3d5190f4-4a99-4b59-ba7f-b32ffffce1f9.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/3d5190f4-4a99-4b59-ba7f-b32ffffce1f9.jpeg"
+                },
+                "birthDate": "2024-01-01",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4731980,
+                "name": "Uster",
+                "microchip": "900276300138363",
+                "unit": {
+                    "document": "18328118024040",
+                    "city": {
+                        "code": 6343,
+                        "name": "RIO DE JANEIRO"
+                    },
+                    "state": "RJ",
+                    "name": "Petz Abelardo Bueno",
+                    "companyName": "Petz Abelardo Bueno"
+                },
+                "ngo": {
+                    "document": "13339013000131",
+                    "name": "ASSOCIACAO FOCINHOS DE LUZ"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7264724,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/4083db4c-2518-412d-a5ec-1f3d169d8095.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/4083db4c-2518-412d-a5ec-1f3d169d8095.jpeg"
+                },
+                "birthDate": "2024-08-01",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4154758,
+                "name": "Vigor",
+                "microchip": "963003100128725",
+                "unit": {
+                    "document": "18328118003124",
+                    "city": {
+                        "code": 8889,
+                        "name": "SAO PAULO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Morumbi",
+                    "companyName": "Petz Morumbi"
+                },
+                "ngo": {
+                    "document": "42512146000166",
+                    "name": "ENQUANTO HOUVER CHANCE"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 6488092,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/2b2cbc06-2ab2-47cc-a7c7-9057d5377af6.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/2b2cbc06-2ab2-47cc-a7c7-9057d5377af6.jpeg"
+                },
+                "birthDate": "2023-02-01",
+                "weight": 32.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4296599,
+                "name": "Vini Jr.",
+                "microchip": "963003100143275",
+                "unit": {
+                    "document": "18328118008789",
+                    "city": {
+                        "code": 8128,
+                        "name": "ARACATUBA"
+                    },
+                    "state": "SP",
+                    "name": "Petz Ara\u00e7atuba",
+                    "companyName": "Petz Ara\u00e7atuba"
+                },
+                "ngo": {
+                    "document": "13525627000108",
+                    "name": "CLUBE AMIGO DOS ANIMAIS"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 6707043,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/8224d904-494a-4d80-bae0-f9ed326511a2.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/8224d904-494a-4d80-bae0-f9ed326511a2.jpeg"
+                },
+                "birthDate": "2023-09-01",
+                "weight": 4.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4692404,
+                "name": "Violeta",
+                "microchip": "963003002233946",
+                "unit": {
+                    "document": "18328118006069",
+                    "city": {
+                        "code": 2547,
+                        "name": "BELO HORIZONTE"
+                    },
+                    "state": "MG",
+                    "name": "Petz Pampulha",
+                    "companyName": "Petz Pampulha"
+                },
+                "ngo": {
+                    "document": "24145417000100",
+                    "name": "Organiza\u00e7\u00e3o de Prote\u00e7\u00e3o Animal Bicho Loko"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7210580,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/7102512b-afa0-4e6b-b275-fb53b4ba6622.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/7102512b-afa0-4e6b-b275-fb53b4ba6622.jpeg"
+                },
+                "birthDate": "2022-10-23",
+                "weight": 2.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4664769,
+                "name": "Vitor",
+                "microchip": "900233003485018",
+                "unit": {
+                    "document": "18328118002667",
+                    "city": {
+                        "code": 9004,
+                        "name": "VOTORANTIM"
+                    },
+                    "state": "SP",
+                    "name": "Petz Iguatemi Esplanada",
+                    "companyName": "Petz Iguatemi Esplanada"
+                },
+                "ngo": {
+                    "document": "23604877000197",
+                    "name": "AMALO ASS AMIGO DOS ANIMAIS DE LOUVEIRA"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7174809,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/e329482a-902b-46de-8b9e-08f3e1c860b8.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/e329482a-902b-46de-8b9e-08f3e1c860b8.jpeg"
+                },
+                "birthDate": "2022-05-22",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4723508,
+                "name": "Vivi",
+                "microchip": "901001000225094",
+                "unit": {
+                    "document": "18328118011143",
+                    "city": {
+                        "code": 921,
+                        "name": "SALVADOR"
+                    },
+                    "state": "BA",
+                    "name": "Petz Salvador Paralela",
+                    "companyName": "Petz Salvador Paralela"
+                },
+                "ngo": {
+                    "document": "04233188000179",
+                    "name": "UNI\u00c3O DE PROTE\u00c7\u00c3O ANIMAL DA BAHIA - UPABA"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 7253558,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/648a2775-d1eb-4452-8e1a-f7ff613a1af3.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/648a2775-d1eb-4452-8e1a-f7ff613a1af3.jpeg"
+                },
+                "birthDate": "2024-09-04",
+                "weight": 4.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4435120,
+                "name": "Whitney",
+                "microchip": "963003100122557",
+                "unit": {
+                    "document": "18328118017850",
+                    "city": {
+                        "code": 1255,
+                        "name": "FORTALEZA"
+                    },
+                    "state": "CE",
+                    "name": "Petz Washington Soares",
+                    "companyName": "Petz Washington Soares"
+                },
+                "ngo": {
+                    "document": "12473791000156",
+                    "name": "GPA - GRUPO DE PROTECAO ANIMAL"
+                },
+                "gender": "FEMALE",
+                "size": "Pequeno",
+                "cadpetzId": 6885207,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/25aa15a8-01e4-4abb-8871-b224451feba3.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/25aa15a8-01e4-4abb-8871-b224451feba3.jpeg"
+                },
+                "birthDate": "2022-12-25",
+                "weight": 0.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4660947,
+                "name": "Xerife",
+                "microchip": "963003100239511",
+                "unit": {
+                    "document": "18328118012034",
+                    "city": {
+                        "code": 7984,
+                        "name": "ARACAJU"
+                    },
+                    "state": "SE",
+                    "name": "Petz Aracaju",
+                    "companyName": "Petz Aracaju"
+                },
+                "ngo": {
+                    "document": "10365928000123",
+                    "name": "Instituto de preserva\u00e7\u00e3o da natureza Canto v"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 7169848,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/454be0e4-e5de-46ae-8ca0-d56ab6afed47.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/454be0e4-e5de-46ae-8ca0-d56ab6afed47.jpeg"
+                },
+                "birthDate": "2023-08-17",
+                "weight": 4.0,
+                "specie": "Gatos",
+                "favorite": false
+            },
+            {
+                "mouraId": 4213667,
+                "name": "Zezinho",
+                "microchip": "900215006001261",
+                "unit": {
+                    "document": "18328118008355",
+                    "city": {
+                        "code": 8657,
+                        "name": "OSASCO"
+                    },
+                    "state": "SP",
+                    "name": "Petz Osasco",
+                    "companyName": "Petz Osasco"
+                },
+                "ngo": {
+                    "document": "39283013816",
+                    "name": "Carolina Maria Forli"
+                },
+                "gender": "MALE",
+                "size": "Pequeno",
+                "cadpetzId": 6582487,
+                "image": {
+                    "thumb": "https://s3.amazonaws.com/petz-cdm-stg/a0751736-4804-48f3-b848-c7115c7ac62e.jpeg",
+                    "photo": "https://s3.amazonaws.com/petz-cdm-stg/a0751736-4804-48f3-b848-c7115c7ac62e.jpeg"
+                },
+                "birthDate": "2023-01-30",
+                "weight": 3.0,
+                "specie": "Gatos",
+                "favorite": false
+            }
+        ],
+        "totalItems": 373,
+        "totalPages": 2,
+        "currentPage": 2
+    },
+    "message": null,
+    "status_code": 200
+}

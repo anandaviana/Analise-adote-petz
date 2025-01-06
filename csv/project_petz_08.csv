@@ -1,0 +1,227 @@
+mouraID;NOME;SEXO;PORTE;CAD PETZ ID;DATA DE NASCIMENTO;PESO;FOTO;UNIDADE PETZ;CIDADE;ESTADO;IDADE (MESES);FILHOTE;ENTRADA
+2813670;ADONIS;MALE;Pequeno;4543672;2021-03-26;0.0;https://s3.amazonaws.com/petz-cdm-stg/a66b8e02-0b4c-456a-a7e3-15ff39546037.jpeg;Petz Washington Soares;FORTALEZA;CE;43;False;2024-11-09
+2813671;AKILA;MALE;Pequeno;4543673;2021-03-26;0.0;https://s3.amazonaws.com/petz-cdm-stg/0dfd40a4-ae89-4391-89ff-24486767f362.jpeg;Petz Washington Soares;FORTALEZA;CE;43;False;2024-11-09
+4689005;Alice;FEMALE;Pequeno;7205967;2023-10-12;3.0;https://s3.amazonaws.com/petz-cdm-stg/74220ce2-c7c3-469d-bc12-c95a02afc8a2.jpeg;Petz Sorocaba;SOROCABA;SP;12;False;2024-11-09
+4613592;AMABILE;FEMALE;Pequeno;7110065;2023-07-03;4.0;https://s3.amazonaws.com/petz-cdm-stg/b7e0bd5f-e8cc-4dae-ac28-a1589d72893e.jpeg;Petz Aricanduva;SAO PAULO;SP;16;False;2024-11-09
+4698661;Amarelo;MALE;Pequeno;7219216;2022-10-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/128a56c8-ce79-4478-b557-a49b2df68549.jpeg;Petz Congonhas;SAO PAULO;SP;25;False;2024-11-09
+4577155;Amelie;FEMALE;Pequeno;7062534;2024-01-01;2.0;https://s3.amazonaws.com/petz-cdm-stg/4dc21b55-be56-4969-b56b-13bd9c9ef186.jpeg;Petz Salvador Bonocô;SALVADOR;BA;10;True;2024-11-09
+4723509;AMELY;FEMALE;Pequeno;7253556;2024-03-10;4.0;https://s3.amazonaws.com/petz-cdm-stg/eace6d24-3d82-4f85-966e-5fbf20ed45db.jpeg;Petz Salvador Paralela;SALVADOR;BA;8;True;2024-11-09
+4605351;Anne;FEMALE;Pequeno;7099304;2024-03-29;1.0;https://s3.amazonaws.com/petz-cdm-stg/a082410b-954f-44e0-a134-bd78cfb2f524.jpeg;Petz Washington Soares;FORTALEZA;CE;7;True;2024-11-09
+3918377;Apollo;MALE;Pequeno;6334125;2022-02-01;0.4;https://s3.amazonaws.com/petz-cdm-stg/4b7d809d-8c80-4ff7-b7e3-03d1ad2bdb41.jpeg;Petz Diadema;DIADEMA;SP;33;False;2024-11-09
+4713501;Ariel;MALE;Pequeno;7239293;2024-05-05;4.0;https://s3.amazonaws.com/petz-cdm-stg/a22f1fc9-a6a8-4a7c-9306-6d1251d82ba3.jpeg;Petz Aracaju;ARACAJU;SE;6;True;2024-11-09
+4723582;ATHENA;FEMALE;Pequeno;7253639;2024-02-03;3.0;https://s3.amazonaws.com/petz-cdm-stg/802c1f56-a9a4-440d-9e97-16051c9872bd.jpeg;Petz Maringá;MARINGA;PR;9;True;2024-11-09
+4711245;Aurora ;FEMALE;Pequeno;7236344;2024-01-18;4.0;https://s3.amazonaws.com/petz-cdm-stg/92f77586-5c30-4037-9729-95e6598c88f2.jpeg;Petz Vila Isabel;RIO DE JANEIRO;RJ;9;True;2024-11-09
+4620490;BABALU;FEMALE;Pequeno;7118166;2024-04-05;1.0;https://s3.amazonaws.com/petz-cdm-stg/154bf1e5-ca9b-4536-8676-b92b7f3dd580.jpeg;Petz Extra Maracanã;RIO DE JANEIRO;RJ;7;True;2024-11-09
+4726316;BABEL;FEMALE;Pequeno;7257309;2024-01-26;4.0;https://s3.amazonaws.com/petz-cdm-stg/d5e6823b-7012-4585-ac7b-ce5a6604a5ec.jpeg;Petz Marginal Tiete;SAO PAULO;SP;9;True;2024-11-09
+4719693;Babi;FEMALE;Pequeno;7248107;2023-11-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/985f9c43-9047-4556-af8a-053693defa14.jpeg;Petz Giovanni Gronchi;SAO PAULO;SP;12;False;2024-11-09
+4723502;Batata;MALE;Pequeno;7253546;2024-07-22;1.0;https://s3.amazonaws.com/petz-cdm-stg/7be46c4f-b059-44f1-a35d-2c5a6b9f3f7f.jpeg;Petz Carrefour Manilha;SAO GONCALO;RJ;3;True;2024-11-09
+4707498;Batata Chipperbec;MALE;Pequeno;7231139;2024-07-10;2.0;https://s3.amazonaws.com/petz-cdm-stg/bb733e82-6bfd-456b-93ae-82c6a49dc1cf.jpeg;Petz Morumbi;SAO PAULO;SP;4;True;2024-11-09
+4524314;Batgirl;FEMALE;Pequeno;6996960;2022-11-15;3.0;https://s3.amazonaws.com/petz-cdm-stg/288cd0bf-c186-41b6-9833-6a05daf43c35.jpeg;Petz Aldeota;FORTALEZA;CE;23;False;2024-11-09
+4633125;Batman ;MALE;Pequeno;7133766;2023-10-01;0.0;https://s3.amazonaws.com/petz-cdm-stg/2b4119af-bc4b-43ee-aa2b-8a5a5d1d3822.jpeg;Petz Aracaju;ARACAJU;SE;13;False;2024-11-09
+4440520;Bebel;FEMALE;Pequeno;6891913;2022-12-17;3.0;https://s3.amazonaws.com/petz-cdm-stg/7625fd38-4233-452e-ac9c-47b962dee929.jpeg;Petz Betim;BETIM;MG;22;False;2024-11-09
+4706655;Belinho;MALE;Pequeno;7230074;2022-10-01;0.0;https://s3.amazonaws.com/petz-cdm-stg/35fddaa2-0bba-417f-89ba-98fea383360e.jpeg;Petz Campo Grande;CAMPO GRANDE;MS;25;False;2024-11-09
+4718674;Bianca;FEMALE;Pequeno;7246639;2023-11-20;0.3;https://s3.amazonaws.com/petz-cdm-stg/d199c38e-e4de-4e25-a6c4-469efb01a85d.jpeg;Petz Radial Leste;SAO PAULO;SP;11;True;2024-11-09
+4725484;BINO;MALE;Pequeno;7256209;2022-12-21;6.0;https://s3.amazonaws.com/petz-cdm-stg/546ff0bf-d579-4f47-810d-ca7403d3845b.jpeg;Petz Maringá;MARINGA;PR;22;False;2024-11-09
+4723501;Bolota;MALE;Pequeno;7253543;2024-07-22;1.0;https://s3.amazonaws.com/petz-cdm-stg/38545b03-5ece-4f01-97d5-b0e93a64485e.jpeg;Petz Carrefour Manilha;SAO GONCALO;RJ;3;True;2024-11-09
+4719714;Bombom;FEMALE;Pequeno;7248128;2023-11-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/f7d40aa3-13e6-44ee-91b8-396798255267.jpeg;Petz Giovanni Gronchi;SAO PAULO;SP;12;False;2024-11-09
+4723500;Bombom;MALE;Pequeno;7253542;2024-07-22;1.0;https://s3.amazonaws.com/petz-cdm-stg/57bc0ac9-34dd-466f-bf3c-9e78ae0649b2.jpeg;Petz Carrefour Manilha;SAO GONCALO;RJ;3;True;2024-11-09
+4726251;Boyer;MALE;Pequeno;7257226;2024-09-07;2.0;https://s3.amazonaws.com/petz-cdm-stg/6c8f646a-19af-4177-b026-fdd1dab969c3.jpeg;Petz Itaim;SAO PAULO;SP;2;True;2024-11-09
+4727071;BRUNA;FEMALE;Pequeno;7258374;2024-08-28;2.0;https://s3.amazonaws.com/petz-cdm-stg/78b50639-0ef6-4a2b-b066-c96a0f0df95b.jpeg;Petz Boa Viagem;RECIFE;PE;2;True;2024-11-09
+4720029;Carmen;FEMALE;Pequeno;7248513;2024-10-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/84e5fd8b-2488-4353-8ed6-4fcd64c59978.jpeg;Petz Sorocaba;SOROCABA;SP;1;True;2024-11-09
+4719532;Carona ;MALE;Pequeno;7247903;2021-10-16;4.0;https://s3.amazonaws.com/petz-cdm-stg/bbafa8c7-e907-40d3-bfe9-7d5cfea67e42.jpeg;Petz Anália Franco;SAO PAULO;SP;36;False;2024-11-09
+4118588;Catharina Sour;FEMALE;Pequeno;6434107;2022-10-01;0.22;https://s3.amazonaws.com/petz-cdm-stg/653ddc2d-4759-44cc-adc4-fa3d883f9e69.jpeg;Petz Gastão Vidigal;SAO PAULO;SP;25;False;2024-11-09
+4534613;Cearazinha;FEMALE;Pequeno;7009752;2024-01-13;1.0;https://s3.amazonaws.com/petz-cdm-stg/e69a84b0-2e96-424d-bbad-8ba468a037d0.jpeg;Petz Aldeota;FORTALEZA;CE;9;True;2024-11-09
+4713561;Cebolinha;MALE;Pequeno;7239369;2024-05-20;2.0;https://s3.amazonaws.com/petz-cdm-stg/03cdb72a-c92b-4af9-b98b-e58e6c248b9c.jpeg;Petz Tamboré;BARUERI;SP;5;True;2024-11-09
+4719589;Celestinha ;FEMALE;Pequeno;7247978;2024-07-15;2.0;https://s3.amazonaws.com/petz-cdm-stg/9d26571f-965c-42ba-8d73-5df3068d2c56.jpeg;Petz Anália Franco;SAO PAULO;SP;3;True;2024-11-09
+4726309;Cereja;FEMALE;Pequeno;7257300;2023-11-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/4554ba41-f56a-45b6-944d-d7f1bafa9207.jpeg;Petz Washington Luís;SAO PAULO;SP;12;False;2024-11-09
+3302550;CHERRIE;FEMALE;Pequeno;5535133;2020-05-05;3.0;https://s3.amazonaws.com/petz-cdm-stg/205ebdd6-62f6-4261-b7e6-a7d5f7a88952.jpeg;Petz Diadema;DIADEMA;SP;54;False;2024-11-09
+4712911;CHICO SCIENCE;MALE;Pequeno;7238549;2024-07-01;0.2;https://s3.amazonaws.com/petz-cdm-stg/f03bff6e-653f-4c93-b7e0-845106430f5d.jpeg;Petz Salvador Bonocô;SALVADOR;BA;4;True;2024-11-09
+4574668;chiquinha;FEMALE;Pequeno;7059598;2023-06-17;4.0;https://s3.amazonaws.com/petz-cdm-stg/aee36a34-9613-455b-a11f-397481b945d5.jpeg;Petz Asa Norte;BRASILIA;DF;16;False;2024-11-09
+4399131;Chiquinho ;MALE;Pequeno;6842552;2022-01-16;4.0;https://s3.amazonaws.com/petz-cdm-stg/7c0ccc0e-bbc4-4e52-b691-11b3304eb3e8.jpeg;Petz Torquato Tapajos;MANAUS;AM;33;False;2024-11-09
+4726091;Cindy;FEMALE;Pequeno;7257053;2024-05-08;2.0;https://s3.amazonaws.com/petz-cdm-stg/23eb2146-fa41-4c64-a262-517ad77741ef.jpeg;Petz Tamboré;BARUERI;SP;6;True;2024-11-09
+4205103;Cinza;FEMALE;Pequeno;6556560;2022-12-10;2.0;https://s3.amazonaws.com/petz-cdm-stg/0fa7ea62-716d-466d-8901-1e1b3d1ed166.jpeg;Petz Jaguaré;SAO PAULO;SP;23;False;2024-11-09
+4597318;CLARICE;FEMALE;Pequeno;7088732;2021-01-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/3cf49acc-bced-46f8-b6d3-b2cb241e532f.jpeg;Petz Rio Claro;RIO CLARO;SP;46;False;2024-11-09
+4673833;Cleitinho ;MALE;Pequeno;7186617;2024-03-22;2.0;https://s3.amazonaws.com/petz-cdm-stg/9e3e7e8e-573d-47bc-8545-40bc1f047546.jpeg;Petz Betim;BETIM;MG;7;True;2024-11-09
+4604340;Colin;MALE;Pequeno;7097933;2024-02-15;2.0;https://s3.amazonaws.com/petz-cdm-stg/4bf7f837-8a03-4ac5-acbf-92009b120772.jpeg;Petz Extra Maracanã;RIO DE JANEIRO;RJ;8;True;2024-11-09
+4584408;Crocket;MALE;Pequeno;7071645;2024-01-26;0.0;https://s3.amazonaws.com/petz-cdm-stg/aeca4566-08bc-4089-9e4e-9f7911913a6d.jpeg;Petz Salvador Paralela;SALVADOR;BA;9;True;2024-11-09
+4134836;Dado;MALE;Pequeno;6457906;2022-01-10;4.0;https://s3.amazonaws.com/petz-cdm-stg/3ac36e57-4d3c-44eb-bdc1-154441da8d47.jpeg;Petz Teresina;TERESINA;PI;34;False;2024-11-09
+4662084;DAISY;FEMALE;Pequeno;7171282;2023-07-10;2.0;https://s3.amazonaws.com/petz-cdm-stg/4d50f85b-5ab4-4527-b26a-c89cb2fbaec0.jpeg;Petz Pacaembu;SAO PAULO;SP;16;False;2024-11-09
+4573695;Dakota;FEMALE;Pequeno;7058440;2024-02-01;2.0;https://s3.amazonaws.com/petz-cdm-stg/d8ff3ab7-af52-40c1-8c53-c3f5525f130a.jpeg;Petz Aldeota;FORTALEZA;CE;9;True;2024-11-09
+4620511;DALILA;FEMALE;Pequeno;7118194;2023-06-13;3.0;https://s3.amazonaws.com/petz-cdm-stg/b7e30fc7-5273-4d7a-9e33-077faaaef9a4.jpeg;Petz Extra Maracanã;RIO DE JANEIRO;RJ;16;False;2024-11-09
+3125830;DAVI;MALE;Pequeno;5106477;2021-07-08;2.0;https://s3.amazonaws.com/petz-cdm-stg/6f514cdb-61ab-4bdb-97ec-f42f75eaf2cf.jpeg;Petz Salvador Paralela;SALVADOR;BA;40;False;2024-11-09
+4706775;Dengo;MALE;Pequeno;7230228;2023-12-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/b68432ed-5505-43f3-a26e-037d3dedf37e.jpeg;Petz Aldeota;FORTALEZA;CE;11;True;2024-11-09
+4699600;Dicinho;FEMALE;Pequeno;7220461;2024-07-25;2.0;https://s3.amazonaws.com/petz-cdm-stg/afccc4c5-c20b-464d-b03a-79c46e888b8a.jpeg;Petz Osasco;OSASCO;SP;3;True;2024-11-09
+3612495;DINO;MALE;Pequeno;6234188;2018-01-01;6.0;https://s3.amazonaws.com/petz-cdm-stg/a66cec7d-ae73-4f38-90f1-67cdaa3632aa.jpeg;Petz Marginal Tiete;SAO PAULO;SP;82;False;2024-11-09
+4712040;DOMINÓ ;FEMALE;Pequeno;7237366;2024-09-10;2.0;https://s3.amazonaws.com/petz-cdm-stg/9bae0341-8911-48c0-a9f2-8e43851d7059.jpeg;Petz W3 Norte;BRASILIA;DF;2;True;2024-11-09
+4237654;DORY;FEMALE;Pequeno;6618842;2022-11-11;0.3;https://s3.amazonaws.com/petz-cdm-stg/eaec0704-c4cb-4889-9b9b-ce4ded66229f.jpeg;Petz Salvador Paralela;SALVADOR;BA;23;False;2024-11-09
+4711302;Dourada;FEMALE;Pequeno;7236395;2022-10-25;6.0;https://s3.amazonaws.com/petz-cdm-stg/c96057cf-f7ed-4229-93b0-ce9442496ded.jpeg;Petz Vila Isabel;RIO DE JANEIRO;RJ;24;False;2024-11-09
+4711223;Draco;MALE;Pequeno;7236316;2024-01-18;4.0;https://s3.amazonaws.com/petz-cdm-stg/02f42140-9731-4771-be73-3a036bf4ad39.jpeg;Petz Vila Isabel;RIO DE JANEIRO;RJ;9;True;2024-11-09
+4220420;Duquesa;FEMALE;Pequeno;6554985;2023-02-01;0.0;https://s3.amazonaws.com/petz-cdm-stg/69605247-c60a-43a6-a4ff-e0c7fd0fa564.jpeg;Petz Diadema;DIADEMA;SP;21;False;2024-11-09
+4719548;Elanor Brandyfoot;FEMALE;Pequeno;7247927;2023-12-10;4.0;https://s3.amazonaws.com/petz-cdm-stg/0bff4531-d1b9-468c-9688-ba442b4e0d89.jpeg;Petz Anália Franco;SAO PAULO;SP;11;True;2024-11-09
+4687014;ELEKTRA ;FEMALE;Pequeno;7203449;2023-09-12;4.0;https://s3.amazonaws.com/petz-cdm-stg/8623278d-a764-47ff-bf5e-da12b4063d86.jpeg;Petz Cantareira;SAO PAULO;SP;13;False;2024-11-09
+4718528;Explorer;FEMALE;Pequeno;7246419;2023-10-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/a917236d-12da-4321-b74f-89285cacfbc8.jpeg;Petz Itaim;SAO PAULO;SP;13;False;2024-11-09
+4706823;Faíska;FEMALE;Pequeno;7230284;2023-12-05;3.0;https://s3.amazonaws.com/petz-cdm-stg/f29da1b8-f4d0-45a7-a006-c7a58cf3e1a4.jpeg;Petz Aldeota;FORTALEZA;CE;11;True;2024-11-09
+4369493;Fancy Feast;FEMALE;Pequeno;6809344;2023-07-10;1.0;https://s3.amazonaws.com/petz-cdm-stg/63e95f4f-34bc-4173-8702-1c55ff558b77.jpeg;Petz Morumbi;SAO PAULO;SP;16;False;2024-11-09
+4723599;FERRUGINHA;FEMALE;Pequeno;7253653;2024-08-10;1.0;https://s3.amazonaws.com/petz-cdm-stg/95b93367-94a2-4d4d-8e79-30441ef010ff.jpeg;Petz Maringá;MARINGA;PR;3;True;2024-11-09
+4723610;FLOQUINHO;MALE;Pequeno;7253665;2024-08-10;1.0;https://s3.amazonaws.com/petz-cdm-stg/d88efa4b-6e46-4714-9173-0f60eeb0a233.jpeg;Petz Maringá;MARINGA;PR;3;True;2024-11-09
+4676060;Florença ;FEMALE;Pequeno;7189438;2024-02-28;3.0;https://s3.amazonaws.com/petz-cdm-stg/08daa48c-1b96-4789-856a-8f2762427629.jpeg;Petz Anhaia Mello;SAO PAULO;SP;8;True;2024-11-09
+3586307;FRAJOLA;MALE;Pequeno;6169969;2021-06-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/edcc8083-43c7-42b5-8c06-0d48b52f62ae.jpeg;Petz Salvador Paralela;SALVADOR;BA;41;False;2024-11-09
+4710374;FRAJOLINHA;FEMALE;Pequeno;7235143;2023-10-14;4.0;https://s3.amazonaws.com/petz-cdm-stg/be8a5b11-855a-493e-b7f8-fd15972efa01.jpeg;Petz Carrefour São Caetano;SAO CAETANO DO SUL;SP;12;False;2024-11-09
+4710363;FRANCESCA;FEMALE;Pequeno;7235126;2023-09-18;3.0;https://s3.amazonaws.com/petz-cdm-stg/76352b13-9712-4e36-8e87-c9230a742865.jpeg;Petz Carrefour São Caetano;SAO CAETANO DO SUL;SP;13;False;2024-11-09
+4719798;Fritz;MALE;Pequeno;7248235;2024-01-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/ae72ef49-a5f6-49ea-a681-9fbb86b391c2.jpeg;Petz Rio Claro;RIO CLARO;SP;10;True;2024-11-09
+4718686;Fumaça;MALE;Pequeno;7246655;2022-10-31;0.0;https://s3.amazonaws.com/petz-cdm-stg/4b7980bd-dca8-4fef-8193-32d877b24a5c.jpeg;Petz Bosque Maia;GUARULHOS;SP;24;False;2024-11-09
+4361094;Fúria;MALE;Pequeno;6799907;2023-09-15;1.0;https://s3.amazonaws.com/petz-cdm-stg/b5e44153-9c5c-48b6-9f39-a1f028747f62.jpeg;Petz Foz do Iguacu;FOZ DO IGUACU;PR;13;False;2024-11-09
+4536288;Gabi;FEMALE;Pequeno;7011893;2022-08-10;3.0;https://s3.amazonaws.com/petz-cdm-stg/eaebefcb-891a-47e0-9070-1b7f70d61fcf.jpeg;Petz Extra Maracanã;RIO DE JANEIRO;RJ;27;False;2024-11-09
+4701270;gabriel;MALE;Pequeno;7222653;2024-07-12;1.0;https://s3.amazonaws.com/petz-cdm-stg/7c7220ae-c179-43c0-bb4f-c7e5ae20e759.jpeg;Petz Avenida das Americas;RIO DE JANEIRO;RJ;3;True;2024-11-09
+4593590;GABY;FEMALE;Pequeno;7083795;2023-06-04;2.0;https://s3.amazonaws.com/petz-cdm-stg/3bbeadfd-1278-460a-b5e6-692dee1834e6.jpeg;Petz Guarujá;GUARUJA;SP;17;False;2024-11-09
+4681515;GININHA;FEMALE;Pequeno;7196588;2024-01-04;4.0;https://s3.amazonaws.com/petz-cdm-stg/bd89252b-1e48-4b37-9b42-770e8ac674fd.jpeg;Petz Marginal Tiete;SAO PAULO;SP;10;True;2024-11-09
+3510678;Gregory;MALE;Pequeno;6006225;2022-07-24;0.0;https://s3.amazonaws.com/petz-cdm-stg/0c8d3b34-2733-4349-8410-d1b0043ed2ec.jpeg;Petz Washington Soares;FORTALEZA;CE;27;False;2024-11-09
+4236431;Hanna;FEMALE;Pequeno;6617094;2023-04-10;1.0;https://s3.amazonaws.com/petz-cdm-stg/c8800387-f396-42f1-b3dc-08208ff9d28b.jpeg;Petz Extra Maracanã;RIO DE JANEIRO;RJ;19;False;2024-11-09
+4518639;Helô;FEMALE;Pequeno;6989695;2023-09-03;2.0;https://s3.amazonaws.com/petz-cdm-stg/0e6b70b0-6808-49e0-b8dc-ceb1fdf47482.jpeg;Petz Itapecerica Da Serra;SAO PAULO;SP;14;False;2024-11-09
+4706861;HORTELÃ;MALE;Pequeno;7230325;2024-07-01;2.0;https://s3.amazonaws.com/petz-cdm-stg/263c4fcc-1115-4dfd-a824-516d62670f37.jpeg;Petz Salvador Bonocô;SALVADOR;BA;4;True;2024-11-09
+4724338;Iraê;FEMALE;Pequeno;7254663;2024-06-26;2.0;https://s3.amazonaws.com/petz-cdm-stg/7bb80957-3d6a-4571-b657-f3327a871e91.jpeg;Petz Pompeia;SAO PAULO;SP;4;True;2024-11-09
+4717985;Itapeva;MALE;Pequeno;7245636;2024-08-22;2.0;https://s3.amazonaws.com/petz-cdm-stg/3882e7dd-18d5-4330-be72-97d07a71cd6b.jpeg;Petz Alto da Boa Vista;SAO PAULO;SP;2;True;2024-11-09
+4534654;Iyá;FEMALE;Pequeno;7009803;2023-06-20;0.0;https://s3.amazonaws.com/petz-cdm-stg/e764cac0-11c6-43e4-99e4-66a826cd5fa0.jpeg;Petz Salvador Paralela;SALVADOR;BA;16;False;2024-11-09
+4464012;Jabuticaba;MALE;Pequeno;6921432;2023-08-15;0.0;https://s3.amazonaws.com/petz-cdm-stg/7f195d07-6852-45d9-8a84-b808314e0e26.jpeg;Petz Cerro Cora;SAO PAULO;SP;14;False;2024-11-09
+4701615;Jacinto;MALE;Pequeno;7223060;2023-06-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/ded2e468-8c0b-4c7c-8164-80b3889998e9.jpeg;Petz Cerro Cora;SAO PAULO;SP;17;False;2024-11-09
+4654427;Jacobina;FEMALE;Pequeno;7161526;2024-05-01;2.0;https://s3.amazonaws.com/petz-cdm-stg/a709222c-2da7-4a82-82e6-6040a20cea9f.jpeg;Petz Aldeota;FORTALEZA;CE;6;True;2024-11-09
+4707891;Jade ;FEMALE;Pequeno;7231582;2023-10-22;3.0;https://s3.amazonaws.com/petz-cdm-stg/51da037a-dccd-4ac2-9be3-b4661e055a89.jpeg;Petz Bosque Maia;GUARULHOS;SP;12;False;2024-11-09
+4712993;JERRY ;MALE;Pequeno;7238630;2023-10-10;4.0;https://s3.amazonaws.com/petz-cdm-stg/9a1695ea-57b0-43f5-af7c-919e8ecf26e9.jpeg;Petz Bosque Maia;GUARULHOS;SP;13;False;2024-11-09
+4705854;Joãozinho ;MALE;Pequeno;7229072;2021-10-01;2.7;https://s3.amazonaws.com/petz-cdm-stg/df266dd8-c910-431a-ad80-343ff27e97cf.jpeg;Petz Campo Grande;CAMPO GRANDE;MS;37;False;2024-11-09
+4712086;Joaquina;FEMALE;Pequeno;7237423;2023-10-20;5.0;https://s3.amazonaws.com/petz-cdm-stg/f3b757c3-9fb2-4137-9aad-fa4623ee0208.jpeg;Petz Santo André;SANTO ANDRE;SP;12;False;2024-11-09
+4159835;JOSÉ;MALE;Pequeno;6495959;2022-05-01;4.0;https://s3.amazonaws.com/petz-cdm-stg/023d138e-8186-4025-ac45-7f3ef1a518ca.jpeg;Petz Gama Leste;BRASILIA;DF;30;False;2024-11-09
+4640901;Jota;MALE;Pequeno;7143922;2024-06-01;0.0;https://s3.amazonaws.com/petz-cdm-stg/255ddea5-4bbf-4055-876b-4a515e9af813.jpeg;Petz Salvador Paralela;SALVADOR;BA;5;True;2024-11-09
+4600210;Julie;FEMALE;Pequeno;7092450;2023-07-04;2.0;https://s3.amazonaws.com/petz-cdm-stg/b4a465c0-d46a-4a0f-a8dc-f7e01e0ec969.jpeg;Petz Guarujá;GUARUJA;SP;16;False;2024-11-09
+4723505;JUMA;FEMALE;Pequeno;7253553;2024-06-03;3.0;https://s3.amazonaws.com/petz-cdm-stg/80318b1d-56ed-49d5-ad82-de4cb897c337.jpeg;Petz Salvador Paralela;SALVADOR;BA;5;True;2024-11-09
+4386623;Juvenal;MALE;Pequeno;6827525;2022-06-10;3.0;https://s3.amazonaws.com/petz-cdm-stg/8b72b7eb-021b-410c-b71c-c419391c0f1e.jpeg;Petz Santo André;SANTO ANDRE;SP;29;False;2024-11-09
+4376603;KELLY;FEMALE;Pequeno;6817219;2023-04-10;4.0;https://s3.amazonaws.com/petz-cdm-stg/a730b4e4-a1bd-4d76-9671-8ceffc37cb82.jpeg;Petz Salvador Paralela;SALVADOR;BA;19;False;2024-11-09
+4723494;Kennedy;MALE;Pequeno;7253536;2024-06-03;0.0;https://s3.amazonaws.com/petz-cdm-stg/0a13a155-2538-40e9-985d-4cad60384434.jpeg;Petz Salvador Paralela;SALVADOR;BA;5;True;2024-11-09
+4718701;KIKO;MALE;Pequeno;7246672;2023-12-16;4.0;https://s3.amazonaws.com/petz-cdm-stg/b6776393-b633-4c3e-a95b-ab977bb7eb5c.jpeg;Petz Marginal Tiete;SAO PAULO;SP;10;True;2024-11-09
+4724325;Kobe;MALE;Pequeno;7254652;2024-05-15;2.0;https://s3.amazonaws.com/petz-cdm-stg/b242ec0b-1436-4960-bce9-1650bfeda5c4.jpeg;Petz Pompeia;SAO PAULO;SP;5;True;2024-11-09
+4686183;kodiak;MALE;Pequeno;7202476;2024-06-14;1.0;https://s3.amazonaws.com/petz-cdm-stg/b2f4b517-6423-4100-b655-798af71fb160.jpeg;Petz Carrefour Manilha;SAO GONCALO;RJ;4;True;2024-11-09
+4407734;Laurinha;FEMALE;Pequeno;6852299;2023-02-20;3.0;https://s3.amazonaws.com/petz-cdm-stg/5382e866-071e-43d0-bd65-8a09a53aa9aa.jpeg;Petz Betim;BETIM;MG;20;False;2024-11-09
+4654498;LEOPOLDINA ;FEMALE;Pequeno;7161628;2020-02-15;4.0;https://s3.amazonaws.com/petz-cdm-stg/37537149-5fa4-45f3-925c-cce37e2b00b9.jpeg;Petz W3 Norte;BRASILIA;DF;56;False;2024-11-09
+4654476;LEOPOLDO ;MALE;Pequeno;7161593;2020-06-29;4.0;https://s3.amazonaws.com/petz-cdm-stg/9072383e-3ff0-4bba-991e-d88f74994a1e.jpeg;Petz W3 Norte;BRASILIA;DF;52;False;2024-11-09
+4718125;LIA;FEMALE;Pequeno;7245807;2024-04-28;2.0;https://s3.amazonaws.com/petz-cdm-stg/3dcd2796-d6f4-4d52-8853-c6f943d08c70.jpeg;Petz Bosque Maia;GUARULHOS;SP;6;True;2024-11-09
+4701433;LILI;FEMALE;Pequeno;7222856;2024-02-10;3.0;https://s3.amazonaws.com/petz-cdm-stg/59b7e2e3-a4a5-46b3-a495-c55e687bc5cd.jpeg;Petz João Firmino;SAO BERNARDO DO CAMPO;SP;9;True;2024-11-09
+4704834;LILICA;FEMALE;Pequeno;7227749;2020-01-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/cba24bf1-9dd1-400a-bcd0-f69e84a32635.jpeg;Petz Rio Claro;RIO CLARO;SP;58;False;2024-11-09
+4699522;LINCE;MALE;Pequeno;7220364;2022-10-02;4.0;https://s3.amazonaws.com/petz-cdm-stg/a2291d99-f378-4e49-be53-3a5291667393.jpeg;Petz Carrefour São Caetano;SAO CAETANO DO SUL;SP;25;False;2024-11-09
+4718749;Lola;FEMALE;Pequeno;7246731;2024-06-10;2.0;https://s3.amazonaws.com/petz-cdm-stg/37bb4240-dbe3-4388-a961-5ac51909c965.jpeg;Petz Osasco;OSASCO;SP;5;True;2024-11-09
+4719723;Lola;FEMALE;Pequeno;7248141;2023-06-10;3.0;https://s3.amazonaws.com/petz-cdm-stg/b3f7579b-2c9f-4e5a-ab19-d531103184d4.jpeg;Petz Giovanni Gronchi;SAO PAULO;SP;17;False;2024-11-09
+4701680;Lord;MALE;Pequeno;7223136;2024-04-15;3.0;https://s3.amazonaws.com/petz-cdm-stg/0fd265fd-eb2e-4d28-850b-f4db619a2a63.jpeg;Petz Limão;SAO PAULO;SP;6;True;2024-11-09
+4676240;Lucky;MALE;Medio;7189663;2023-11-20;3.0;https://s3.amazonaws.com/petz-cdm-stg/7b401d8b-c6e8-44ce-a6da-b42497434d71.jpeg;Petz João Firmino;SAO BERNARDO DO CAMPO;SP;11;True;2024-11-09
+4692289;Luigi;MALE;Pequeno;7210427;2024-04-01;1.0;https://s3.amazonaws.com/petz-cdm-stg/22e76a98-5b66-482c-a4bf-ba45a344468b.jpeg;Petz Parque Flamboyant;GOIANIA;GO;7;True;2024-11-09
+4213676;Luizinha;FEMALE;Pequeno;6582499;2023-01-30;3.0;https://s3.amazonaws.com/petz-cdm-stg/3bf7bfda-f7cc-4f64-a6cd-a792459fd8a4.jpeg;Petz Osasco;OSASCO;SP;21;False;2024-11-09
+4152442;Luma;FEMALE;Pequeno;6484459;2022-12-31;0.0;https://s3.amazonaws.com/petz-cdm-stg/af1c7ff9-7c92-4f32-b7a0-46c3306b8091.jpeg;Petz Betim;BETIM;MG;22;False;2024-11-09
+4691625;Luma;FEMALE;Pequeno;7209536;2023-12-26;3.0;https://s3.amazonaws.com/petz-cdm-stg/1a85547e-3507-4af5-8678-a8836fb7eabb.jpeg;Petz Palmas;PALMAS;TO;10;True;2024-11-09
+4717245;Luna;FEMALE;Pequeno;7244573;2024-03-30;2.0;https://s3.amazonaws.com/petz-cdm-stg/a2f9d60e-f470-470d-846b-019a17fe513b.jpeg;Petz Washington Soares;FORTALEZA;CE;7;True;2024-11-09
+4718738;Luna;FEMALE;Pequeno;7246719;2024-06-10;2.0;https://s3.amazonaws.com/petz-cdm-stg/2da6d0e6-eed5-419a-8496-bbf5723fcea8.jpeg;Petz Osasco;OSASCO;SP;5;True;2024-11-09
+4497224;Magali;FEMALE;Pequeno;6962932;2023-07-01;2.0;https://s3.amazonaws.com/petz-cdm-stg/19d7af14-d7c3-4292-9855-dbfe38a6011b.jpeg;Petz Aldeota;FORTALEZA;CE;16;False;2024-11-09
+4701489;Maitê;FEMALE;Pequeno;7222917;2023-10-10;3.0;https://s3.amazonaws.com/petz-cdm-stg/17fb7647-db72-4a85-a5ae-5f39b6ff1acf.jpeg;Petz Piracicaba;PIRACICABA;SP;13;False;2024-11-09
+3493318;MALU;FEMALE;Pequeno;5970196;2022-04-21;0.3;https://s3.amazonaws.com/petz-cdm-stg/531707fd-c1bb-4276-8403-87f76125ed59.jpeg;Petz Salvador Paralela;SALVADOR;BA;30;False;2024-11-09
+4707523;Maly;MALE;Pequeno;7231169;2023-08-10;4.0;https://s3.amazonaws.com/petz-cdm-stg/adc9a123-b9df-4b6d-9e29-6f9587a7677d.jpeg;Petz Anália Franco;SAO PAULO;SP;15;False;2024-11-09
+4687873;Mamis;FEMALE;Pequeno;7204527;2023-03-01;5.0;https://s3.amazonaws.com/petz-cdm-stg/307e513a-90a9-4dc7-9e43-a1201322440f.jpeg;Petz Itaim;SAO PAULO;SP;20;False;2024-11-09
+4711324;Manchinha ;FEMALE;Pequeno;7236416;2024-01-15;4.0;https://s3.amazonaws.com/petz-cdm-stg/2c86024d-83ce-4f5e-a679-8402faf65562.jpeg;Petz Vila Isabel;RIO DE JANEIRO;RJ;9;True;2024-11-09
+4511340;Maní;MALE;Pequeno;6980518;2021-04-10;4.0;https://s3.amazonaws.com/petz-cdm-stg/88661d54-514b-4b62-8ccf-b13bd99bebbf.jpeg;Petz Iguatemi Esplanada;VOTORANTIM;SP;43;False;2024-11-09
+4720027;Manu ;FEMALE;Pequeno;7248509;2023-10-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/1371a696-7b3f-411c-ab0f-606f075f17e1.jpeg;Petz Sorocaba;SOROCABA;SP;13;False;2024-11-09
+4711331;Maramora;FEMALE;Pequeno;7236420;2024-06-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/321b0a1a-e361-42c3-ab31-936f1465a26a.jpeg;Petz Bandeirantes 24h;SAO PAULO;SP;5;True;2024-11-09
+4456513;Margarida;FEMALE;Pequeno;6912135;2022-06-01;4.0;https://s3.amazonaws.com/petz-cdm-stg/35f342e8-69ca-4edc-9887-faafa3c7f8cb.jpeg;Petz Jaguaré;SAO PAULO;SP;29;False;2024-11-09
+4694242;Margot;FEMALE;Pequeno;7213076;2021-01-20;4.0;https://s3.amazonaws.com/petz-cdm-stg/d02cf684-642b-4708-a370-e879c7c91023.jpeg;Petz Itapecerica Da Serra;SAO PAULO;SP;45;False;2024-11-09
+4726095;Margot;FEMALE;Pequeno;7257061;2024-05-08;2.0;https://s3.amazonaws.com/petz-cdm-stg/31643bb4-8c9a-4a81-94ca-5f880f38a181.jpeg;Petz Tamboré;BARUERI;SP;6;True;2024-11-09
+3576868;MARIA;FEMALE;Pequeno;6149771;2022-01-08;3.0;https://s3.amazonaws.com/petz-cdm-stg/15376c67-16ec-43c0-927d-207702e07340.jpeg;Petz Gama Leste;BRASILIA;DF;34;False;2024-11-09
+4700430;Marinara;FEMALE;Pequeno;7221558;2024-04-12;2.0;https://s3.amazonaws.com/petz-cdm-stg/3e75c42c-b0ca-4fe3-939c-f49d8217e4ca.jpeg;Petz Morumbi;SAO PAULO;SP;6;True;2024-11-09
+4577156;Marrie;FEMALE;Pequeno;7062535;2024-01-01;0.21;https://s3.amazonaws.com/petz-cdm-stg/fdf2018e-e0d2-4fdb-b086-39d05c95444f.jpeg;Petz Salvador Bonocô;SALVADOR;BA;10;True;2024-11-09
+3875736;MARTA;FEMALE;Pequeno;6319688;2022-03-15;3.0;https://s3.amazonaws.com/petz-cdm-stg/99b27598-8bf5-446e-a446-243763eb5a10.jpeg;Petz Gama Leste;BRASILIA;DF;31;False;2024-11-09
+4722241;MARTINA;FEMALE;Pequeno;7251881;2023-10-21;3.0;https://s3.amazonaws.com/petz-cdm-stg/945d04dd-6e23-4aa7-a308-ff123c7f2553.jpeg;Petz Ricardo Jafet 24h;SAO PAULO;SP;12;False;2024-11-09
+4658367;Mel;FEMALE;Pequeno;7166545;2023-08-17;4.0;https://s3.amazonaws.com/petz-cdm-stg/2c3301a3-fb69-4316-a5fe-4ec4a821a2db.jpeg;Petz Aracaju;ARACAJU;SE;14;False;2024-11-09
+4706087;Mel;FEMALE;Pequeno;7229350;2021-09-10;3.0;https://s3.amazonaws.com/petz-cdm-stg/269f0040-5fdb-4b57-a6ab-50c353e538e1.jpeg;Petz Sorocaba;SOROCABA;SP;38;False;2024-11-09
+4723512;MEL;FEMALE;Pequeno;7253561;2024-09-04;2.0;https://s3.amazonaws.com/petz-cdm-stg/35e46cda-60f0-48f7-af91-10ef2af555f3.jpeg;Petz Salvador Paralela;SALVADOR;BA;2;True;2024-11-09
+4724456;MELINA;FEMALE;Pequeno;7254802;2024-01-07;4.0;https://s3.amazonaws.com/petz-cdm-stg/86e10baf-45dd-412c-8aa8-2f9eba31cef5.jpeg;Petz Salvador Paralela;SALVADOR;BA;10;True;2024-11-09
+4695209;Mercedes;MALE;Pequeno;7214409;2023-09-24;4.0;https://s3.amazonaws.com/petz-cdm-stg/aabdd5a1-feba-4109-889e-0be5302b3ba2.jpeg;Petz Augusta;SAO PAULO;SP;13;False;2024-11-09
+4287770;Mia;FEMALE;Pequeno;6694078;2023-06-22;2.0;https://s3.amazonaws.com/petz-cdm-stg/b7bbbebb-7040-4703-a01a-237a1728049e.jpeg;Petz Piracicaba;PIRACICABA;SP;16;False;2024-11-09
+4220457;Miau;FEMALE;Pequeno;6579059;2021-09-01;0.0;https://s3.amazonaws.com/petz-cdm-stg/59717df6-af76-4962-b416-804bebb29cd0.jpeg;Petz Washington Luís;SAO PAULO;SP;38;False;2024-11-09
+4350849;mickey;MALE;Pequeno;6786882;2023-09-13;1.0;https://s3.amazonaws.com/petz-cdm-stg/0ccb821b-30e5-41c8-8d19-a7e12051098e.jpeg;Petz Foz do Iguacu;FOZ DO IGUACU;PR;13;False;2024-11-09
+4712608;Miguelita;FEMALE;Pequeno;7238169;2021-10-16;5.0;https://s3.amazonaws.com/petz-cdm-stg/77e0f2d3-cd63-49a1-b6c9-bc44df45449b.jpeg;Petz Augusta;SAO PAULO;SP;36;False;2024-11-09
+4718718;MILA;FEMALE;Pequeno;7246693;2023-10-15;4.0;https://s3.amazonaws.com/petz-cdm-stg/1ccf95f8-4b1c-4391-a687-44a0320f215c.jpeg;Petz Marginal Tiete;SAO PAULO;SP;12;False;2024-11-09
+4561223;milk;MALE;Pequeno;7042883;2024-01-20;1.0;https://s3.amazonaws.com/petz-cdm-stg/1c0241d2-c3cf-417a-a331-5f0cc9d33b3e.jpeg;Petz Barra Américas;RIO DE JANEIRO;RJ;9;True;2024-11-09
+4669373;Mimoso;MALE;Pequeno;7180476;2024-05-05;2.0;https://s3.amazonaws.com/petz-cdm-stg/204cd3f2-0445-4e45-ac4d-a2f540d791df.jpeg;Petz Itu;ITU;SP;6;True;2024-11-09
+4692693;Mingau;FEMALE;Pequeno;7210599;2022-07-03;2.0;https://s3.amazonaws.com/petz-cdm-stg/0feef019-f9c1-4a80-83fd-027bc73f3455.jpeg;Petz Pampulha;BELO HORIZONTE;MG;28;False;2024-11-09
+4701301;MINGAU;MALE;Pequeno;7222694;2022-01-22;3.0;https://s3.amazonaws.com/petz-cdm-stg/a1d17ef0-f909-41c0-a66b-16579351dbe7.jpeg;Petz João Firmino;SAO BERNARDO DO CAMPO;SP;33;False;2024-11-09
+4712917;Mingau ;MALE;Pequeno;7238555;2024-08-20;1.0;https://s3.amazonaws.com/petz-cdm-stg/438b7820-800e-4a5d-95d4-9fe3bbc27981.jpeg;Petz Nossa Senhora do Carmo;BELO HORIZONTE;MG;2;True;2024-11-09
+4707626;Mini Bob ;MALE;Pequeno;7231278;2021-01-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/7d2549b1-34e1-45bc-8aa0-d6133e9a9c65.jpeg;Petz Taboão da Serra;SAO PAULO;SP;46;False;2024-11-09
+4718803;Molly;FEMALE;Pequeno;7246801;2023-10-25;3.0;https://s3.amazonaws.com/petz-cdm-stg/1326db33-6379-44f2-a7c7-0cde8fda7637.jpeg;Petz Taboão da Serra;SAO PAULO;SP;12;False;2024-11-09
+4706806;Mucilon;FEMALE;Pequeno;7230268;2023-12-06;3.0;https://s3.amazonaws.com/petz-cdm-stg/83371ef0-01f7-4ed6-a10d-c5d724680836.jpeg;Petz Aldeota;FORTALEZA;CE;11;True;2024-11-09
+4711049;Murilo;MALE;Pequeno;7236093;2024-04-14;2.0;https://s3.amazonaws.com/petz-cdm-stg/40fd07d0-25b1-4532-9019-9e591c85832c.jpeg;Petz Congonhas;SAO PAULO;SP;6;True;2024-11-09
+4508066;Nana;FEMALE;Pequeno;6976582;2021-04-10;4.0;https://s3.amazonaws.com/petz-cdm-stg/92cc0b66-34d7-4b70-a911-8ec13e74d047.jpeg;Petz Iguatemi Esplanada;VOTORANTIM;SP;43;False;2024-11-09
+4701309;NARIZINHA;FEMALE;Pequeno;7222704;2022-01-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/a6240235-61d2-4ade-93d9-97ee274da819.jpeg;Petz João Firmino;SAO BERNARDO DO CAMPO;SP;34;False;2024-11-09
+4534580;Narizinho;FEMALE;Pequeno;7009712;2024-01-13;1.0;https://s3.amazonaws.com/petz-cdm-stg/8b94040c-1294-4793-a4cd-ef88baea73c5.jpeg;Petz Aldeota;FORTALEZA;CE;9;True;2024-11-09
+4687864;Nena;FEMALE;Pequeno;7204512;2024-01-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/8deb155a-c844-403f-a6ea-ef208354c2e3.jpeg;Petz Salvador Bonocô;SALVADOR;BA;10;True;2024-11-09
+4719641;Nenem;FEMALE;Pequeno;7248034;2023-11-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/bcfe4a9c-4d4e-4ccd-83ec-4a3caa63c733.jpeg;Petz Giovanni Gronchi;SAO PAULO;SP;12;False;2024-11-09
+4725355;Nero;MALE;Pequeno;7256025;2024-07-01;2.0;https://s3.amazonaws.com/petz-cdm-stg/a7dba292-f7ef-4cb8-9462-45685fb068d0.jpeg;Petz Salvador Bonocô;SALVADOR;BA;4;True;2024-11-09
+4723462;Nescal;MALE;Pequeno;7253493;2024-07-21;1.0;https://s3.amazonaws.com/petz-cdm-stg/348c595c-b612-445b-9348-01b7b8c83b83.jpeg;Petz Carrefour Manilha;SAO GONCALO;RJ;3;True;2024-11-09
+4698643;Névoa;FEMALE;Pequeno;7219188;2023-06-29;5.0;https://s3.amazonaws.com/petz-cdm-stg/9f512c65-e2a8-4b63-b20d-d3da8f2882ba.jpeg;Petz Extra Maracanã;RIO DE JANEIRO;RJ;16;False;2024-11-09
+4706089;Nick;MALE;Pequeno;7229351;2023-05-05;3.0;https://s3.amazonaws.com/petz-cdm-stg/0181e088-4376-48e9-8fd9-fa29556a7c09.jpeg;Petz Sorocaba;SOROCABA;SP;18;False;2024-11-09
+4717252;Nick;MALE;Pequeno;7244579;2024-07-28;2.0;https://s3.amazonaws.com/petz-cdm-stg/f9063db9-ec07-4366-95d7-758e32ca0b00.jpeg;Petz Washington Soares;FORTALEZA;CE;3;True;2024-11-09
+4348415;nina;FEMALE;Pequeno;6783404;2021-06-29;3.0;https://s3.amazonaws.com/petz-cdm-stg/919a023d-f636-417b-b1db-9acd86687345.jpeg;Petz Asa Norte;BRASILIA;DF;40;False;2024-11-09
+4723463;Nora;FEMALE;Pequeno;7253494;2023-10-10;3.0;https://s3.amazonaws.com/petz-cdm-stg/494a461f-7a83-4448-8309-9f54e9af94ea.jpeg;Petz Congonhas;SAO PAULO;SP;13;False;2024-11-09
+4295843;Not Milk;MALE;Pequeno;6705889;2023-03-15;0.32;https://s3.amazonaws.com/petz-cdm-stg/a670f2cf-a5d9-4b19-92eb-ccf84b28f8cf.jpeg;Petz Morumbi;SAO PAULO;SP;19;False;2024-11-09
+4598379;Octavio;MALE;Pequeno;7090023;2024-03-10;1.0;https://s3.amazonaws.com/petz-cdm-stg/890f0fe7-5803-4b11-9a04-a62a984ea139.jpeg;Petz Osasco;OSASCO;SP;8;True;2024-11-09
+4383491;OTO;MALE;Pequeno;6824074;2023-05-10;4.0;https://s3.amazonaws.com/petz-cdm-stg/c2113d9d-c428-48da-9d70-a4d46df728c7.jpeg;Petz Jaguaré;SAO PAULO;SP;18;False;2024-11-09
+4699682;Penélope;FEMALE;Pequeno;7220560;2020-01-15;5.0;https://s3.amazonaws.com/petz-cdm-stg/a74dcca1-3db5-4a8c-82ef-691621f819cd.jpeg;Petz Piracicaba;PIRACICABA;SP;57;False;2024-11-09
+4614591;Pérola ;FEMALE;Pequeno;7111365;2024-01-13;2.0;https://s3.amazonaws.com/petz-cdm-stg/bbfc91d4-a9f6-4034-800c-3dca7165cff5.jpeg;Petz Palmas;PALMAS;TO;9;True;2024-11-09
+4704975;Pici;FEMALE;Pequeno;7227913;2024-03-08;2.0;https://s3.amazonaws.com/petz-cdm-stg/b5ac332d-9bed-4d9b-bbed-dbeab6c0a136.jpeg;Petz Morumbi;SAO PAULO;SP;8;True;2024-11-09
+4694973;PIETRO;MALE;Pequeno;7214155;2023-12-25;4.0;https://s3.amazonaws.com/petz-cdm-stg/bec0e6cf-33e5-4469-9995-8bfe6d699cc9.jpeg;Petz Marginal Tiete;SAO PAULO;SP;10;True;2024-11-09
+4717877;Pinduca Tigrão;MALE;Pequeno;7245488;2022-08-12;3.0;https://s3.amazonaws.com/petz-cdm-stg/0a4a7682-40eb-4b2f-8528-eb9f2fe7443c.jpeg;Petz Hortolandia;HORTOLANDIA;SP;26;False;2024-11-09
+4719726;Pituca ;FEMALE;Pequeno;7248147;2024-05-28;2.0;https://s3.amazonaws.com/petz-cdm-stg/9392f048-f354-473c-9991-fe4af4377b90.jpeg;Petz Bosque Maia;GUARULHOS;SP;5;True;2024-11-09
+4711333;Pop;FEMALE;Pequeno;7236427;2023-10-20;4.0;https://s3.amazonaws.com/petz-cdm-stg/ab0794b5-abad-412d-b263-a26e00b4b6a5.jpeg;Petz Bandeirantes 24h;SAO PAULO;SP;12;False;2024-11-09
+4706516;Poppy ;FEMALE;Pequeno;7229939;2023-11-01;4.0;https://s3.amazonaws.com/petz-cdm-stg/1efea5dc-b130-4c49-96ce-a7618f275ded.jpeg;Petz Augusta;SAO PAULO;SP;12;False;2024-11-09
+2942628;PORTÃO;MALE;Pequeno;4707745;2020-08-01;0.0;https://s3.amazonaws.com/petz-cdm-stg/0eb9b1ae-1bfa-4bad-9940-98fa1065308d.jpeg;Petz Barra Américas;RIO DE JANEIRO;RJ;51;False;2024-11-09
+4631035;Precioso;MALE;Pequeno;7131240;2023-12-10;3.0;https://s3.amazonaws.com/petz-cdm-stg/2696155a-7f94-4631-a768-3df20fd64e88.jpeg;Petz Novo Hamburgo;NOVO HAMBURGO;RS;11;True;2024-11-09
+4707632;Pretinho ;MALE;Pequeno;7231288;2021-01-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/1bc9ed16-c3b1-425a-9942-c0da5f218fad.jpeg;Petz Nações Unidas;SAO PAULO;SP;46;False;2024-11-09
+4280919;Pretinho José ;MALE;Pequeno;6683968;2023-06-10;2.0;https://s3.amazonaws.com/petz-cdm-stg/05acd45e-3fc8-46f9-8334-ae6c82a8a8a7.jpeg;Petz Taguatinga;BRASILIA;DF;17;False;2024-11-09
+4711285;Princesa ;FEMALE;Pequeno;7236382;2024-01-15;4.0;https://s3.amazonaws.com/petz-cdm-stg/15c1c9ff-6033-4493-8598-489bb241939a.jpeg;Petz Vila Isabel;RIO DE JANEIRO;RJ;9;True;2024-11-09
+4725127;PRINCESA;FEMALE;Pequeno;7255674;2023-11-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/25f7ed2c-1248-486d-bfd6-c45943204033.jpeg;Petz Ricardo Jafet 24h;SAO PAULO;SP;12;False;2024-11-09
+4698970;Pudim;MALE;Pequeno;7219592;2024-01-07;4.0;https://s3.amazonaws.com/petz-cdm-stg/d2c113ca-dd39-4f1c-bfb7-aed26faebbfc.jpeg;Petz Iguatemi Esplanada;VOTORANTIM;SP;10;True;2024-11-09
+4700424;Pudim de Leite Condensado;FEMALE;Pequeno;7221549;2024-04-12;2.0;https://s3.amazonaws.com/petz-cdm-stg/fed8285b-5212-4fa1-a8a3-54b2d23cf2f8.jpeg;Petz Bandeirantes 24h;SAO PAULO;SP;6;True;2024-11-09
+4683407;QUERUBIM;MALE;Pequeno;7199050;2024-06-12;2.0;https://s3.amazonaws.com/petz-cdm-stg/c02bfc87-4147-43e9-aa55-aff71de351a5.jpeg;Petz W3 Norte;BRASILIA;DF;4;True;2024-11-09
+4369724;Raspberry;MALE;Pequeno;6809593;2023-06-27;3.0;https://s3.amazonaws.com/petz-cdm-stg/067aa4e9-8c7a-42c4-9d0c-a1737aba2612.jpeg;Petz Morumbi;SAO PAULO;SP;16;False;2024-11-09
+4725114;Rebecca;FEMALE;Pequeno;7255649;2023-11-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/9a4df1b7-c449-4113-8bf2-3a60215edefe.jpeg;Petz Ricardo Jafet 24h;SAO PAULO;SP;12;False;2024-11-09
+4718666;ROMEU;MALE;Pequeno;7246621;2023-10-10;3.0;https://s3.amazonaws.com/petz-cdm-stg/eec3fe86-2e20-498e-9b14-774f1b52a4db.jpeg;Petz Pacaembu;SAO PAULO;SP;13;False;2024-11-09
+4719792;Romeu;MALE;Pequeno;7248225;2024-01-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/6617a5cb-e0cc-400b-a290-b262aa311efd.jpeg;Petz Rio Claro;RIO CLARO;SP;10;True;2024-11-09
+4705004;ROSE;FEMALE;Pequeno;7227946;2024-07-08;1.0;https://s3.amazonaws.com/petz-cdm-stg/43dc0305-9e8a-4f87-9ec9-72edb6f28679.jpeg;Petz Carrefour São Caetano;SAO CAETANO DO SUL;SP;4;True;2024-11-09
+4725345;Sabrina;FEMALE;Pequeno;7256009;2024-06-01;2.0;https://s3.amazonaws.com/petz-cdm-stg/d09b57b3-745f-4779-8780-add1b10ebb9b.jpeg;Petz Salvador Bonocô;SALVADOR;BA;5;True;2024-11-09
+4500297;Samba;MALE;Pequeno;6966772;2023-11-23;0.0;https://s3.amazonaws.com/petz-cdm-stg/8589121d-a5da-44b1-819a-7ed66f50f441.jpeg;Petz Jaguaré;SAO PAULO;SP;11;True;2024-11-09
+4726106;Sansão ;MALE;Pequeno;7257074;2023-11-08;2.0;https://s3.amazonaws.com/petz-cdm-stg/abea951f-9df2-4992-bf76-367433a0b8c5.jpeg;Petz Tamboré;BARUERI;SP;12;False;2024-11-09
+4220423;Sarafina;FEMALE;Pequeno;6554980;2023-03-02;0.3;https://s3.amazonaws.com/petz-cdm-stg/3725b0df-3e2d-4c80-8778-fba84afa7388.jpeg;Petz Marginal Tiete;SAO PAULO;SP;20;False;2024-11-09
+4713520;Sebastian;MALE;Pequeno;7239320;2023-10-30;2.0;https://s3.amazonaws.com/petz-cdm-stg/d963f548-152e-4535-a602-ce870baa89dd.jpeg;Petz Florianópolis;FLORIANOPOLIS;SC;12;False;2024-11-09
+4683419;SERAFIM;MALE;Pequeno;7199063;2024-06-12;2.0;https://s3.amazonaws.com/petz-cdm-stg/e2297e3c-4cd0-4f09-aa66-965d9e548636.jpeg;Petz W3 Norte;BRASILIA;DF;4;True;2024-11-09
+4597328;SERAFINE;MALE;Pequeno;7088750;2020-01-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/6770b94a-aca7-4292-8004-52d9710ebf25.jpeg;Petz Rio Claro;RIO CLARO;SP;58;False;2024-11-09
+4718620;Server;MALE;Pequeno;7246554;2024-08-30;2.0;https://s3.amazonaws.com/petz-cdm-stg/1f8f210d-badc-484f-82b1-52e680a401f2.jpeg;Petz Itaim;SAO PAULO;SP;2;True;2024-11-09
+4694223;Shirley;FEMALE;Pequeno;7213039;2023-01-04;3.0;https://s3.amazonaws.com/petz-cdm-stg/40999627-614e-43c1-9352-7261fdc85ead.jpeg;Petz Itapecerica Da Serra;SAO PAULO;SP;22;False;2024-11-09
+4452925;simba;MALE;Pequeno;6907517;2022-11-16;4.0;https://s3.amazonaws.com/petz-cdm-stg/25fdd58a-8303-4f75-8b0e-309582d88704.jpeg;Petz Itapecerica Da Serra;SAO PAULO;SP;23;False;2024-11-09
+4720028;Suzy;FEMALE;Pequeno;7248512;2023-10-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/45a24cc5-b3c7-44fa-8753-1e2909088d60.jpeg;Petz Sorocaba;SOROCABA;SP;13;False;2024-11-09
+4707826;Teka;FEMALE;Pequeno;7231497;2024-05-10;2.0;https://s3.amazonaws.com/petz-cdm-stg/d4fd1179-11c3-497b-ad2a-98f1e22db936.jpeg;Petz Pompeia;SAO PAULO;SP;6;True;2024-11-09
+4598321;Teodora;FEMALE;Pequeno;7089953;2023-11-20;0.0;https://s3.amazonaws.com/petz-cdm-stg/9f26740b-7cac-42c2-92ea-ee2fff5a8012.jpeg;Petz Washington Soares;FORTALEZA;CE;11;True;2024-11-09
+4723456;Thaylor;MALE;Pequeno;7253488;2023-10-10;3.0;https://s3.amazonaws.com/petz-cdm-stg/f95332ab-cd43-45eb-8ae9-d3094eeca31a.jpeg;Petz Congonhas;SAO PAULO;SP;13;False;2024-11-09
+4701498;Theo;MALE;Pequeno;7222927;2023-10-10;3.0;https://s3.amazonaws.com/petz-cdm-stg/d05d8795-370e-4c65-9715-8bebb47f1069.jpeg;Petz Piracicaba;PIRACICABA;SP;13;False;2024-11-09
+4711346;Thomas;MALE;Pequeno;7236439;2023-10-21;2.0;https://s3.amazonaws.com/petz-cdm-stg/3a944aff-0db0-4caa-9a1d-a9b8c0aa26e5.jpeg;Petz Campo Grande;CAMPO GRANDE;MS;12;False;2024-11-09
+4665114;Thor;MALE;Pequeno;7175235;2024-03-01;2.0;https://s3.amazonaws.com/petz-cdm-stg/f5711695-3c09-4a6e-9f5f-d941d7b43956.jpeg;Petz Itu;ITU;SP;8;True;2024-11-09
+4708583;Tico;MALE;Pequeno;7232537;2023-10-17;4.0;https://s3.amazonaws.com/petz-cdm-stg/28605674-04dd-49ea-8885-95d9973bf370.jpeg;Petz Piracicaba;PIRACICABA;SP;12;False;2024-11-09
+4686874;Tina;FEMALE;Pequeno;7203280;2023-09-24;3.0;https://s3.amazonaws.com/petz-cdm-stg/d83551f9-1b0e-49f2-99c1-feeb53c19601.jpeg;Petz Indaiatuba;INDAIATUBA;SP;13;False;2024-11-09
+4628259;Tinchi;MALE;Pequeno;7127635;2020-07-07;4.0;https://s3.amazonaws.com/petz-cdm-stg/5afaa511-efa8-4765-94dc-ce8dcf28aefc.jpeg;Petz Indaiatuba;INDAIATUBA;SP;52;False;2024-11-09
+4719711;Tom;MALE;Pequeno;7248126;2023-11-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/c492d527-7776-408c-8489-4f6ec55709f9.jpeg;Petz Giovanni Gronchi;SAO PAULO;SP;12;False;2024-11-09
+4707639;Toquinho ;MALE;Pequeno;7231294;2021-01-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/2e3d9c7b-e299-46d5-a90e-b8b282f2c622.jpeg;Petz Nações Unidas;SAO PAULO;SP;46;False;2024-11-09
+4669015;Tulio;MALE;Pequeno;7180026;2024-03-20;2.0;https://s3.amazonaws.com/petz-cdm-stg/b2b08093-13aa-42c1-b878-3e49fa95fc8f.jpeg;Petz Itaim;SAO PAULO;SP;7;True;2024-11-09
+4618935;Ursa;FEMALE;Pequeno;7116425;2024-01-01;3.0;https://s3.amazonaws.com/petz-cdm-stg/3d5190f4-4a99-4b59-ba7f-b32ffffce1f9.jpeg;Petz Salvador Bonocô;SALVADOR;BA;10;True;2024-11-09
+4154758;Vigor;MALE;Pequeno;6488092;2023-02-01;0.32;https://s3.amazonaws.com/petz-cdm-stg/2b2cbc06-2ab2-47cc-a7c7-9057d5377af6.jpeg;Petz Morumbi;SAO PAULO;SP;21;False;2024-11-09
+4296599;Vini Jr.;MALE;Pequeno;6707043;2023-09-01;4.0;https://s3.amazonaws.com/petz-cdm-stg/8224d904-494a-4d80-bae0-f9ed326511a2.jpeg;Petz Araçatuba;ARACATUBA;SP;14;False;2024-11-09
+4692404;Violeta;FEMALE;Pequeno;7210580;2022-10-23;2.0;https://s3.amazonaws.com/petz-cdm-stg/7102512b-afa0-4e6b-b275-fb53b4ba6622.jpeg;Petz Pampulha;BELO HORIZONTE;MG;24;False;2024-11-09
+4664769;Vitor;MALE;Pequeno;7174809;2022-05-22;3.0;https://s3.amazonaws.com/petz-cdm-stg/e329482a-902b-46de-8b9e-08f3e1c860b8.jpeg;Petz Iguatemi Esplanada;VOTORANTIM;SP;29;False;2024-11-09
+4723508;Vivi;FEMALE;Pequeno;7253558;2024-09-04;4.0;https://s3.amazonaws.com/petz-cdm-stg/648a2775-d1eb-4452-8e1a-f7ff613a1af3.jpeg;Petz Salvador Paralela;SALVADOR;BA;2;True;2024-11-09
+4435120;Whitney;FEMALE;Pequeno;6885207;2022-12-25;0.0;https://s3.amazonaws.com/petz-cdm-stg/25aa15a8-01e4-4abb-8871-b224451feba3.jpeg;Petz Washington Soares;FORTALEZA;CE;22;False;2024-11-09
+4719725;Willicot ;MALE;Pequeno;7248143;2023-10-28;4.0;https://s3.amazonaws.com/petz-cdm-stg/725b2ea5-ca82-4812-a06b-d9056cc4b315.jpeg;Petz Bosque Maia;GUARULHOS;SP;12;False;2024-11-09
+4660947;Xerife;MALE;Pequeno;7169848;2023-08-17;4.0;https://s3.amazonaws.com/petz-cdm-stg/454be0e4-e5de-46ae-8ca0-d56ab6afed47.jpeg;Petz Aracaju;ARACAJU;SE;14;False;2024-11-09
+4723452;Yoddy;MALE;Pequeno;7253482;2024-07-21;1.0;https://s3.amazonaws.com/petz-cdm-stg/e58f0b2e-84d6-47b7-9e67-5e72db722967.jpeg;Petz Carrefour Manilha;SAO GONCALO;RJ;3;True;2024-11-09
+4057566;ZAACK;MALE;Pequeno;6385691;2022-10-10;3.0;https://s3.amazonaws.com/petz-cdm-stg/9df7609b-1216-4a19-a8e6-c287caffe0d0.jpeg;Petz Santo André;SANTO ANDRE;SP;25;False;2024-11-09
+4701225;ZANGADA ;FEMALE;Pequeno;7222604;2022-01-29;3.9;https://s3.amazonaws.com/petz-cdm-stg/5bf683a7-ed18-48b2-afe9-f6cda47b172b.jpeg;Petz João Firmino;SAO BERNARDO DO CAMPO;SP;33;False;2024-11-09
+4213667;Zezinho;MALE;Pequeno;6582487;2023-01-30;3.0;https://s3.amazonaws.com/petz-cdm-stg/a0751736-4804-48f3-b848-c7115c7ac62e.jpeg;Petz Osasco;OSASCO;SP;21;False;2024-11-09
