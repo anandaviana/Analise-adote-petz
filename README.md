@@ -1,5 +1,6 @@
 # Análise de resultados do Programa Adote Petz
-![OMUMAO0](https://github.com/user-attachments/assets/3748538c-8ccd-47c0-b34d-75e3e036e18a)
+
+![OMUMAO0](https://github.com/user-attachments/assets/c7346eeb-c8b2-48b6-b1e4-e8a21e84bb9c)
 
  ## Tecnologias e ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="15" height="15"/> Python
