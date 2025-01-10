@@ -116,6 +116,6 @@ adotados = conjunto_analise.loc[conjunto_analise['PERMANÊNCIA']<=3]
 adotados.info()
 ```
 
-Assim, obtive os dataframes e pude realizar visualizações de dados tanto com pandas, que você pode conferir no notebook que está no repositório, quando no looker, em um dashboard disponível [aqui](https://lookerstudio.google.com/reporting/0fdd7c1a-8dfc-4ae0-aa51-6eda18128b82/page/p_gsfbbv7ymd). Para conferir o artigo com a análise completa dos dados, acesse o meu [Medium](https://medium.com/@anandadsv/an%C3%A1lise-de-resultados-do-programa-adote-petz-0d1e08bc1681).
+Assim, obtive os dataframes e pude realizar visualizações de dados tanto com pandas, que você pode conferir no notebook que está no repositóri. Também produzi com Looker um dashboard, disponível [aqui](https://lookerstudio.google.com/reporting/0fdd7c1a-8dfc-4ae0-aa51-6eda18128b82/page/p_gsfbbv7ymd). Para conferir o artigo com a análise completa dos dados, acesse o meu [Medium](https://medium.com/@anandadsv/an%C3%A1lise-de-resultados-do-programa-adote-petz-0d1e08bc1681).
 
 
