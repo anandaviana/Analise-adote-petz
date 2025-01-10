@@ -1,5 +1,6 @@
 # Análise de resultados do Programa Adote Petz
-![OMUMAO0](https://github.com/user-attachments/assets/8f6ebd33-6b77-46bc-8a05-664b22d7d705)
+
+![OMUMAO0](https://github.com/user-attachments/assets/93044574-5770-4689-8939-67d4bf8c7ec4)
 
 
  ## Tecnologias e ferramentas
